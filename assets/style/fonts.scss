@@ -1,0 +1,15 @@
+@font-face {
+  font-family: "inter-medium";
+  src: url("inter-medium.woff2") format("woff2"),
+    url("inter-medium.woff") format("woff");
+  font-weight: 500;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "inter-semi-bold";
+  src: url("inter-semi-bold.woff2") format("woff2"),
+    url("inter-semi-bold.woff") format("woff");
+  font-weight: 600;
+  font-display: swap;
+}
