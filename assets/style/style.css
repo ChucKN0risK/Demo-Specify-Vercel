@@ -1,0 +1,119 @@
+:root {
+  --font-primary: -apple-system, BlinkMacSystemFont, sans-serif;
+}
+
+html,
+body {
+  width: 100%;
+  height: 100%;
+  padding: 0;
+  margin: 0;
+  font-family: var(--font-primary);
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+body {
+  display: flex;
+  flex-direction: column;
+  color: var(--neutral-white);
+}
+
+*, *::before, *::after {
+  box-sizing: border-box;
+}
+
+main {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  flex: 1;
+  background-color: var(--capetien-darken);
+}
+
+footer {
+  width: 100%;
+}
+
+footer,
+button {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 1rem;
+  background-color: var(--color-oriflamme-default);
+  color: white;
+}
+
+button:hover {
+  background-color: var(--color-oriflamme-darken);
+}
+
+button {
+  border: none;
+  border-radius: 4px;
+  position: relative;
+  font-size: 1rem;
+}
+
+button::after {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  border-radius: 4px;
+  opacity: 0.32;
+  box-shadow: 0 1px 2px 0 var(--app), 0 2px 16px 0 var(--app);
+}
+
+
+svg + span {
+  margin-left: 1rem;
+}
+
+img + span {
+  margin-left: 1rem;
+}
+
+
+h1 {
+  margin-top: 2rem;
+  margin-bottom: 2rem;
+  color: var(--text);
+}
+
+.u-color-app {
+  color: var(--app);
+}
+
+.pastille {
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 100px;
+  height: 100px;
+  border-radius: 100%;
+  font-size: 40px;
+  overflow: hidden;
+}
+
+.pastille::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: var(--app);
+  opacity: 0.14;
+}
+
+.rect {
+  width: 100%;
+  height: 100%;
+  background-color: var(--app);
+}

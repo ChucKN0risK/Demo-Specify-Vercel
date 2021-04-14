@@ -19,19 +19,12 @@
       ]
     },
     {
-      "name": "Design Tokens / Icons",
+      "name": "Design Tokens / Images",
       "path": "assets/img",
       "filter": {
         "types": ["bitmap"]
       },
-      "parsers": [
-        {
-          "name": "name-assets-files-by-pattern",
-          "options": {
-            "pattern": "{{name}}.{{format}}"
-          }
-        }
-      ]
+      "parsers": []
     },
     {
       "name": "Assets / Fonts",
