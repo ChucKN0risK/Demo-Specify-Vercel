@@ -1,0 +1,11 @@
+.body-text-style {
+  font-family: Inter, serif;
+  font-size: 14px;
+  line-height: 1.43;
+}
+
+.title-text-style {
+  font-family: Inter, serif;
+  font-size: 36px;
+  line-height: 1.11;
+}
