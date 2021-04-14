@@ -16,7 +16,7 @@ body {
 body {
   display: flex;
   flex-direction: column;
-  color: var(--colors-black);
+  color: var(--black);
 }
 
 *, *::before, *::after {
@@ -46,7 +46,7 @@ button {
   justify-content: center;
   align-items: center;
   padding: 1rem;
-  background-color: var(--colors-primary);
+  background-color: var(--primary);
   color: white;
 }
 
@@ -78,15 +78,14 @@ img + span {
   margin-left: 1rem;
 }
 
-
 h1 {
   margin-top: 2rem;
   margin-bottom: 2rem;
-  color: var(--text);
+  color: var(--black);
 }
 
-.u-color-green {
-  color: var(--colors-green);
+.u-color-secondary {
+  color: var(--secondary);
 }
 
 .logo {

@@ -1,5 +1,6 @@
 {
   "repository": "@specifyapp/Demo-UX-Ghent",
+  "personalAccessToken": "933ea06008fe8df310da01a3d8fd300bc0e5a507e8557bba8f4df309a2d3bf47",
   "rules": [
     {
       "name": "Design Tokens / Colors",
@@ -12,6 +13,7 @@
           "name": "to-css-custom-properties",
           "options": {
             "formatTokens":{
+              "formatName": "kebabCase",
               "color": "hsl"
             }
           }
