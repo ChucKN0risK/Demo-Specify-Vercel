@@ -1,0 +1,99 @@
+{
+  "repository": "@specifyapp/Demo-UX-Ghent",
+  "rules": [
+    {
+      "name": "Design Tokens / Colors",
+      "path": "assets/style/colors.css",
+      "filter": {
+        "types": ["color"]
+      },
+      "parsers": [
+        {
+          "name": "to-css-custom-properties",
+          "options": {
+            "formatTokens":{
+              "color": "hsl"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "name": "Design Tokens / Icons",
+      "path": "assets/img",
+      "filter": {
+        "types": ["bitmap"]
+      },
+      "parsers": [
+        {
+          "name": "name-assets-files-by-pattern",
+          "options": {
+            "pattern": "{{name}}.{{format}}"
+          }
+        }
+      ]
+    },
+    {
+      "name": "Assets / Fonts",
+      "path": "assets/fonts",
+      "filter": {
+        "types": ["font"]
+      },
+      "parsers": [
+        {
+          "name": "convert-font",
+          "options": {
+            "formats": ["woff2", "woff"],
+            "fileNameKey": ["fontFamily", "fontWeight"],
+            "fileNameFormat": "kebabCase"
+          }
+        }
+      ]
+    },
+    {
+      "name": "Design Tokens / Fonts",
+      "path": "assets/style/fonts.scss",
+      "filter": {
+        "types": ["font"]
+      },
+      "parsers": [
+        {
+          "name": "kebabcasify",
+          "options": {
+            "keys": ["name"]
+          }
+        },
+        {
+          "name": "to-css-font-import",
+          "options": {
+            "formats": ["woff2", "woff"]
+          }
+        }
+      ]
+    },
+    {
+      "name": "Design Tokens / Text Styles",
+      "path": "assets/style/typography.css",
+      "filter": {
+        "types": ["textStyle"]
+      },
+      "parsers": [
+        {
+          "name": "kebabcasify",
+          "options": {
+            "keys": ["name"]
+          }
+        },
+        {
+          "name": "to-css-text-style",
+          "options": {
+            "exclude": ["color", "text-indent", "vertical-align", "text-align"],
+            "suffix": "-text-style",
+            "relativeLineHeight": true,
+            "genericFamily": "serif"
+          }
+        }
+      ]
+    }
+  ]
+}
