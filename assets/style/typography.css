@@ -1,7 +1,25 @@
+.bodini-text-style {
+  font-family: "Bodoni Std", serif;
+  font-size: 50px;
+  line-height: 1.17;
+}
+
 .body-text-style {
   font-family: Inter, serif;
   font-size: 14px;
   line-height: 1.43;
+}
+
+.font-awesome-text-style {
+  font-family: "Font Awesome 5 Free", serif;
+  font-size: 50px;
+  line-height: 1.17;
+}
+
+.proxima-text-style {
+  font-family: "Proxima Nova", serif;
+  font-size: 50px;
+  line-height: 1.17;
 }
 
 .title-text-style {
