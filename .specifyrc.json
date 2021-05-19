@@ -61,7 +61,8 @@
         {
           "name": "to-css-font-import",
           "options": {
-            "formats": ["woff2", "woff"]
+            "formats": ["woff2", "woff"],
+            "fontsPath": "../fonts/"
           }
         }
       ]

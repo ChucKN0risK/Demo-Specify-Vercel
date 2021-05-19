@@ -16,7 +16,8 @@ body {
 body {
   display: flex;
   flex-direction: column;
-  color: var(--colors-black);
+  background-color: var(--colors-black);
+  color: var(--colors-white);
 }
 
 *, *::before, *::after {
@@ -81,7 +82,7 @@ img + span {
 h1 {
   margin-top: 2rem;
   margin-bottom: 2rem;
-  color: var(--colors-black);
+  color: var(--colors-white);
 }
 
 .u-color-secondary {
