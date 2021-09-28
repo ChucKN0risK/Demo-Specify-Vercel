@@ -1,6 +1,5 @@
 {
   "repository": "@specifyapp/Into-Design-Systems",
-  "personalAccessToken": "5064f3a66c2ee19d9de4878460ae39ba0542fa83959d1eb78015abfa6dad051a",
   "rules": [
     {
       "name": "Design Tokens / Colors",
