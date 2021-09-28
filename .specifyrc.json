@@ -77,7 +77,8 @@
             "exclude": ["color", "text-indent", "vertical-align", "text-align"],
             "suffix": "-text-style",
             "relativeLineHeight": true,
-            "genericFamily": "serif"
+            "genericFamily": "serif",
+            "fontFamilyFormat": "kebabCase"
           }
         }
       ]
