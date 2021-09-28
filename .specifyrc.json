@@ -30,15 +30,15 @@
           "name": "convert-font",
           "options": {
             "formats": ["woff2", "woff"],
-            "fileNameKey": ["fontFamily", "fontWeight"],
-            "fileNameFormat": "kebabCase"
+            "fileNameFormat": "kebabCase",
+            "fileNameKey": ["fontPostScriptName"]
           }
         }
       ]
     },
     {
       "name": "Design Tokens / Fonts",
-      "path": "assets/style/fonts.scss",
+      "path": "assets/style/fonts.css",
       "filter": {
         "types": ["font"]
       },
