@@ -1,6 +1,6 @@
 {
-  "repository": "@specifyapp/Demo-Meetup",
-  "personalAccessToken": "933ea06008fe8df310da01a3d8fd300bc0e5a507e8557bba8f4df309a2d3bf47",
+  "repository": "@specifyapp/Into-Design-Systems",
+  "personalAccessToken": "5064f3a66c2ee19d9de4878460ae39ba0542fa83959d1eb78015abfa6dad051a",
   "rules": [
     {
       "name": "Design Tokens / Colors",
@@ -19,14 +19,6 @@
           }
         }
       ]
-    },
-    {
-      "name": "Design Tokens / Images",
-      "path": "assets/img",
-      "filter": {
-        "types": ["bitmap"]
-      },
-      "parsers": []
     },
     {
       "name": "Assets / Fonts",
