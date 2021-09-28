@@ -60,18 +60,6 @@ button {
   color: var(--colors-white);
 }
 
-button::after {
-  content: '';
-  position: absolute;
-  top: 0;
-  left: 0;
-  width: 100%;
-  height: 100%;
-  border-radius: 4px;
-  opacity: 0.32;
-  box-shadow: 0 1px 2px 0 var(--app), 0 2px 16px 0 var(--app);
-}
-
 
 svg + span {
   margin-left: 1rem;
@@ -87,7 +75,7 @@ h1 {
 }
 
 .u-color-secondary {
-  color: var(--colors-green);
+  color: var(--colors-accent);
 }
 
 .logo {
