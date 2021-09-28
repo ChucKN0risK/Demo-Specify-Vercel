@@ -1,0 +1,23 @@
+.body-text-style {
+  font-family: Sora-Bold, serif;
+  font-size: 15px;
+  line-height: 1.73;
+}
+
+.code-text-style {
+  font-family: FiraCode-Regular, serif;
+  font-size: 13px;
+  line-height: 1.54;
+}
+
+.subtitle-text-style {
+  font-family: Sora-SemiBold, serif;
+  font-size: 36px;
+  line-height: 1.39;
+}
+
+.title-text-style {
+  font-family: Sora-SemiBold, serif;
+  font-size: 52px;
+  line-height: 1.04;
+}
