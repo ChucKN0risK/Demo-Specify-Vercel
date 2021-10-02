@@ -7,4 +7,7 @@
   --colors-orange: hsl(33, 100%, 51%);
   --colors-red: hsl(3, 90%, 60%);
   --colors-white: hsl(0, 0%, 100%);
+  --Primary: hsl(270, 52%, 51%);
+  --Secondary: hsl(227, 73%, 47%);
+  --Tertiary: hsl(338, 73%, 47%);
 }
