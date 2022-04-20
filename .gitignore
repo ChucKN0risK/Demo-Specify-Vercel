@@ -34,3 +34,9 @@ Temporary Items
 
 # Node
 node_modules
+
+# Storybook
+storybook-static
+
+# VS Code
+.history
