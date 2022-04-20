@@ -8,7 +8,7 @@
     "lint": "vue-cli-service lint",
     "storybook": "start-storybook -p 6006",
     "build-storybook": "build-storybook",
-    "extract-tokens": "specify pull -C ./.specify/storybook-design-data.json & specify pull -C ./.specify/general.json"
+    "extract-tokens": "specify pull -C .specifyrc.json"
   },
   "dependencies": {
     "core-js": "^3.8.3",
