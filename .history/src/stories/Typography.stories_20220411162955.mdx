@@ -1,0 +1,23 @@
+<!-- Typography.stories.mdx -->
+
+import { Meta, Typeset } from '@storybook/addon-docs/blocks';
+import typography from './style/general';
+
+<Meta title="Design Tokens/Typography" />
+
+export const SampleText = 'The quick brown fox jumps over the lazy dog.';
+
+# Typography
+
+**Font:** Inter
+
+**Weights:** 400(Regular), 500(Medium), 600(SemiBold), 700(bold)
+
+<Typeset
+  fontSizes={[
+    Number(typography.fontSize.label),
+  ]}
+  fontWeight={typography.fontWeight.label}
+  sampleText={SampleText}
+  fontFamily={typography.fontFamily.label}
+/>

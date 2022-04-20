@@ -1,0 +1,85 @@
+{
+  "repository": "@specifyapp/demo-storybook",
+  "personalAccessToken": "c3fbf2c08d7ecaf693aa6cff0ee313f671cc7fa7ac808faee9cae9b8869b91b9",
+  "rules": [
+    {
+      "name": "Design Tokens / Colors",
+      "filter": {
+        "types": ["color"]
+      },
+      "path": "src/assets/style/01-utils/variables/_colors.scss",
+      "parsers": [
+        {
+          "name": "to-css-custom-properties"
+        }
+      ]
+    },
+    {
+      "name": "Design Tokens / General",
+      "filter": {
+        "types": ["textStyle", "font"]
+      },
+      "path": "src/stories/style/general.js",
+      "parsers": [
+        {
+          "name": "to-theme-ui",
+          "options": {
+            "formatConfig": {
+              "objectName": "extend"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "name": "Design Tokens / Text Styles",
+      "filter": {
+        "types": ["textStyle"]
+      },
+      "path": "src/assets/style/_text-styles.scss",
+      "parsers": [
+        {
+          "name": "to-scss-mixin-text-style",
+          "options": {
+            "exclude": ["color", "text-indent", "vertical-align", "text-align"],
+            "prefix": "text-",
+            "relativeLineHeight": true,
+            "genericFamily": "serif"
+          }
+        }
+      ]
+    },
+    {
+      "name": "Assets / Fonts",
+      "path": "src/assets/fonts",
+      "filter": {
+        "types": ["font"]
+      },
+      "parsers": [
+        {
+          "name": "convert-font",
+          "options": {
+            "formats": ["woff2", "woff"]
+          }
+        }
+      ]
+    },
+    {
+      "name": "Design Tokens / Fonts",
+      "path": "src/assets/style/_fonts.scss",
+      "filter": {
+        "types": ["font"]
+      },
+      "parsers": [
+        {
+          "name": "to-css-font-import",
+          "options": {
+            "formats": ["woff2", "woff"],
+            "includeFontWeight": false,
+            "fontsPath": "~@/assets/fonts/"
+          }
+        }
+      ]
+    }
+  ]
+}

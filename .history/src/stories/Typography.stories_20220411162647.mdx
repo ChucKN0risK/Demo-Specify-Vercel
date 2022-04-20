@@ -1,0 +1,46 @@
+<!-- Typography.stories.mdx -->
+
+import { Meta, Typeset } from '@storybook/addon-docs/blocks';
+import theme from './style/general';
+
+<Meta title="Design Tokens/Typography" />
+
+export const typography = {
+  type: {
+    primary: '"Nunito Sans", "Helvetica Neue", Helvetica, Arial, sans-serif',
+  },
+  weight: {
+    regular: '400',
+    bold: '700',
+    extrabold: '800',
+    black: '900',
+  },
+  size: {
+    s1: 12,
+    s2: 14,
+    s3: 16,
+    m1: 20,
+    m2: 24,
+    m3: 28,
+    l1: 32,
+    l2: 40,
+    l3: 48,
+  },
+};
+
+export const SampleText = 'The quick brown fox jumps over the lazy dog.';
+
+# Typography
+
+**Font:** Inter
+
+**Weights:** 400(Regular), 500(Medium), 600(SemiBold), 700(bold)
+
+<Typeset
+  fontSizes={[
+    Number(theme.fontSize.label),
+  ]}
+  fontWeight={typography.fontWeight.label}
+  sampleText={SampleText}
+  fontFamily={typography.fontFamily.label}
+/>

@@ -1,0 +1,18 @@
+{
+  "repository": "@specifyapp/guide-color-theme-light",
+  "personalAccessToken": "c3fbf2c08d7ecaf693aa6cff0ee313f671cc7fa7ac808faee9cae9b8869b91b9",
+  "rules": [
+    {
+      "name": "Design Tokens / Colors",
+      "filter": {
+        "types": ["color"]
+      },
+      "path": "src/stories/style/colors.js",
+      "parsers": [
+        {
+          "name": "to-theme-ui"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+<!-- Colors.stories.mdx -->
+
+import { Meta, ColorPalette, ColorItem } from '@storybook/addon-docs';
+import theme from './style/colors';
+
+<Meta title="Design Tokens/Colors" />
+
+<ColorPalette>
+  <ColorItem
+    title="theme.colors.base"
+    subtitle="Some of the Base"
+    colors={ theme.colors.base }
+  />
+  <ColorItem
+    title="theme.colors.danger"
+    subtitle="Some of the danger"
+    colors={ theme.colors.danger }
+  />
+  <ColorItem
+    v-for="color in theme.colorss"
+    title="theme.colors.greyscale"
+    subtitle="Some of the greys"
+    colors={ theme.colors }
+  />
+</ColorPalette>
