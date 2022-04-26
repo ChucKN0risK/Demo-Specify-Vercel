@@ -1,6 +1,6 @@
 const extend = {
   colors: {
-    base: { black: "rgb(0, 0, 0)", white: "rgb(243, 47, 47)" },
+    base: { black: "rgb(0, 0, 0)", white: "rgb(255, 255, 255)" },
     danger: {
       50: "rgb(254, 242, 242)",
       100: "rgb(254, 226, 226)",
