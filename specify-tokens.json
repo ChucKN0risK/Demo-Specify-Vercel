@@ -931,6 +931,671 @@
         "repositoryId": "92ce4045-6b42-4a56-88ad-b40b44dfbba8"
     },
     {
+        "id": "94c6c78f-0df2-462e-900d-e4e0a87c6f31",
+        "createdAt": "2022-05-11T15:37:30.240Z",
+        "updatedAt": "2022-05-11T15:37:30.240Z",
+        "name": "spacing-inline-l",
+        "value": {
+            "unit": "px",
+            "measure": 20
+        },
+        "meta": {
+            "source": "frames",
+            "sourceFile": "https://www.figma.com/file/rMQYTZWdTSIjCE6P0EeEXC",
+            "originFrameName": "Semantic Spacings"
+        },
+        "type": "measurement",
+        "originId": "1404:999",
+        "sourceId": "2bf02803-32b3-4705-8140-4ac692f9655e",
+        "repositoryId": "92ce4045-6b42-4a56-88ad-b40b44dfbba8"
+    },
+    {
+        "id": "315fc652-c433-4a19-a2a5-c774614f1812",
+        "createdAt": "2022-05-11T15:37:30.241Z",
+        "updatedAt": "2022-05-11T15:37:30.241Z",
+        "name": "spacing-inline-m",
+        "value": {
+            "unit": "px",
+            "measure": 10
+        },
+        "meta": {
+            "source": "frames",
+            "sourceFile": "https://www.figma.com/file/rMQYTZWdTSIjCE6P0EeEXC",
+            "originFrameName": "Semantic Spacings"
+        },
+        "type": "measurement",
+        "originId": "1404:995",
+        "sourceId": "2bf02803-32b3-4705-8140-4ac692f9655e",
+        "repositoryId": "92ce4045-6b42-4a56-88ad-b40b44dfbba8"
+    },
+    {
+        "id": "f628d03d-1eb7-4233-9bb1-9095d0d24eb3",
+        "createdAt": "2022-05-11T15:37:30.201Z",
+        "updatedAt": "2022-05-11T15:37:30.201Z",
+        "name": "spacing-inline-s",
+        "value": {
+            "unit": "px",
+            "measure": 6
+        },
+        "meta": {
+            "source": "frames",
+            "sourceFile": "https://www.figma.com/file/rMQYTZWdTSIjCE6P0EeEXC",
+            "originFrameName": "Semantic Spacings"
+        },
+        "type": "measurement",
+        "originId": "1404:991",
+        "sourceId": "2bf02803-32b3-4705-8140-4ac692f9655e",
+        "repositoryId": "92ce4045-6b42-4a56-88ad-b40b44dfbba8"
+    },
+    {
+        "id": "c91264e5-a09a-4102-b9fa-3d97eebc8095",
+        "createdAt": "2022-05-11T15:37:30.184Z",
+        "updatedAt": "2022-05-11T15:37:30.184Z",
+        "name": "spacing-inline-xl",
+        "value": {
+            "unit": "px",
+            "measure": 40
+        },
+        "meta": {
+            "source": "frames",
+            "sourceFile": "https://www.figma.com/file/rMQYTZWdTSIjCE6P0EeEXC",
+            "originFrameName": "Semantic Spacings"
+        },
+        "type": "measurement",
+        "originId": "1404:1003",
+        "sourceId": "2bf02803-32b3-4705-8140-4ac692f9655e",
+        "repositoryId": "92ce4045-6b42-4a56-88ad-b40b44dfbba8"
+    },
+    {
+        "id": "f9cb2fc8-0a3a-457e-8269-5220230d7384",
+        "createdAt": "2022-05-11T15:37:30.201Z",
+        "updatedAt": "2022-05-11T15:37:30.201Z",
+        "name": "spacing-inline-xs",
+        "value": {
+            "unit": "px",
+            "measure": 4
+        },
+        "meta": {
+            "source": "frames",
+            "sourceFile": "https://www.figma.com/file/rMQYTZWdTSIjCE6P0EeEXC",
+            "originFrameName": "Semantic Spacings"
+        },
+        "type": "measurement",
+        "originId": "1404:987",
+        "sourceId": "2bf02803-32b3-4705-8140-4ac692f9655e",
+        "repositoryId": "92ce4045-6b42-4a56-88ad-b40b44dfbba8"
+    },
+    {
+        "id": "aa4667e8-e0d1-485d-9010-99cfbe0a7c47",
+        "createdAt": "2022-05-11T15:37:30.240Z",
+        "updatedAt": "2022-05-11T15:37:30.240Z",
+        "name": "spacing-inset-l",
+        "value": {
+            "unit": "px",
+            "measure": 20
+        },
+        "meta": {
+            "source": "frames",
+            "sourceFile": "https://www.figma.com/file/rMQYTZWdTSIjCE6P0EeEXC",
+            "originFrameName": "Semantic Spacings"
+        },
+        "type": "measurement",
+        "originId": "1404:1019",
+        "sourceId": "2bf02803-32b3-4705-8140-4ac692f9655e",
+        "repositoryId": "92ce4045-6b42-4a56-88ad-b40b44dfbba8"
+    },
+    {
+        "id": "3037c632-b332-4f2b-85c5-70a2f3ed99b3",
+        "createdAt": "2022-05-11T15:37:30.201Z",
+        "updatedAt": "2022-05-11T15:37:30.201Z",
+        "name": "spacing-inset-m",
+        "value": {
+            "unit": "px",
+            "measure": 10
+        },
+        "meta": {
+            "source": "frames",
+            "sourceFile": "https://www.figma.com/file/rMQYTZWdTSIjCE6P0EeEXC",
+            "originFrameName": "Semantic Spacings"
+        },
+        "type": "measurement",
+        "originId": "1404:1015",
+        "sourceId": "2bf02803-32b3-4705-8140-4ac692f9655e",
+        "repositoryId": "92ce4045-6b42-4a56-88ad-b40b44dfbba8"
+    },
+    {
+        "id": "ecb74ff1-ec55-4c7d-ad61-686aea440956",
+        "createdAt": "2022-05-11T15:37:30.186Z",
+        "updatedAt": "2022-05-11T15:37:30.186Z",
+        "name": "spacing-inset-s",
+        "value": {
+            "unit": "px",
+            "measure": 6
+        },
+        "meta": {
+            "source": "frames",
+            "sourceFile": "https://www.figma.com/file/rMQYTZWdTSIjCE6P0EeEXC",
+            "originFrameName": "Semantic Spacings"
+        },
+        "type": "measurement",
+        "originId": "1404:1011",
+        "sourceId": "2bf02803-32b3-4705-8140-4ac692f9655e",
+        "repositoryId": "92ce4045-6b42-4a56-88ad-b40b44dfbba8"
+    },
+    {
+        "id": "1e8a9022-1f47-4410-ace9-dd2e07597df8",
+        "createdAt": "2022-05-11T15:37:30.278Z",
+        "updatedAt": "2022-05-11T15:37:30.278Z",
+        "name": "spacing-inset-squish-l-h",
+        "value": {
+            "unit": "px",
+            "measure": 20
+        },
+        "meta": {
+            "source": "frames",
+            "sourceFile": "https://www.figma.com/file/rMQYTZWdTSIjCE6P0EeEXC",
+            "originFrameName": "Semantic Spacings"
+        },
+        "type": "measurement",
+        "originId": "1404:1041",
+        "sourceId": "2bf02803-32b3-4705-8140-4ac692f9655e",
+        "repositoryId": "92ce4045-6b42-4a56-88ad-b40b44dfbba8"
+    },
+    {
+        "id": "f0e941e2-6025-4572-b2e4-f6ad1806a86a",
+        "createdAt": "2022-05-11T15:37:30.278Z",
+        "updatedAt": "2022-05-11T15:37:30.278Z",
+        "name": "spacing-inset-squish-l-v",
+        "value": {
+            "unit": "px",
+            "measure": 16
+        },
+        "meta": {
+            "source": "frames",
+            "sourceFile": "https://www.figma.com/file/rMQYTZWdTSIjCE6P0EeEXC",
+            "originFrameName": "Semantic Spacings"
+        },
+        "type": "measurement",
+        "originId": "1459:904",
+        "sourceId": "2bf02803-32b3-4705-8140-4ac692f9655e",
+        "repositoryId": "92ce4045-6b42-4a56-88ad-b40b44dfbba8"
+    },
+    {
+        "id": "55c90b7e-04a6-4591-97ff-ff17b66c914c",
+        "createdAt": "2022-05-11T15:37:30.270Z",
+        "updatedAt": "2022-05-11T15:37:30.270Z",
+        "name": "spacing-inset-squish-m-h",
+        "value": {
+            "unit": "px",
+            "measure": 10
+        },
+        "meta": {
+            "source": "frames",
+            "sourceFile": "https://www.figma.com/file/rMQYTZWdTSIjCE6P0EeEXC",
+            "originFrameName": "Semantic Spacings"
+        },
+        "type": "measurement",
+        "originId": "1404:1037",
+        "sourceId": "2bf02803-32b3-4705-8140-4ac692f9655e",
+        "repositoryId": "92ce4045-6b42-4a56-88ad-b40b44dfbba8"
+    },
+    {
+        "id": "d03df370-5753-4c84-a813-a3f3544a3bfd",
+        "createdAt": "2022-05-11T15:37:30.270Z",
+        "updatedAt": "2022-05-11T15:37:30.270Z",
+        "name": "spacing-inset-squish-m-v",
+        "value": {
+            "unit": "px",
+            "measure": 16
+        },
+        "meta": {
+            "source": "frames",
+            "sourceFile": "https://www.figma.com/file/rMQYTZWdTSIjCE6P0EeEXC",
+            "originFrameName": "Semantic Spacings"
+        },
+        "type": "measurement",
+        "originId": "1459:903",
+        "sourceId": "2bf02803-32b3-4705-8140-4ac692f9655e",
+        "repositoryId": "92ce4045-6b42-4a56-88ad-b40b44dfbba8"
+    },
+    {
+        "id": "2d2f3cd4-d54a-4d1a-b2d2-8caf09ba3b8f",
+        "createdAt": "2022-05-11T15:37:30.264Z",
+        "updatedAt": "2022-05-11T15:37:30.264Z",
+        "name": "spacing-inset-squish-s-h",
+        "value": {
+            "unit": "px",
+            "measure": 6
+        },
+        "meta": {
+            "source": "frames",
+            "sourceFile": "https://www.figma.com/file/rMQYTZWdTSIjCE6P0EeEXC",
+            "originFrameName": "Semantic Spacings"
+        },
+        "type": "measurement",
+        "originId": "1404:1033",
+        "sourceId": "2bf02803-32b3-4705-8140-4ac692f9655e",
+        "repositoryId": "92ce4045-6b42-4a56-88ad-b40b44dfbba8"
+    },
+    {
+        "id": "2c75f078-5d5f-45e9-a617-7ce684571f2a",
+        "createdAt": "2022-05-11T15:37:30.264Z",
+        "updatedAt": "2022-05-11T15:37:30.264Z",
+        "name": "spacing-inset-squish-s-v",
+        "value": {
+            "unit": "px",
+            "measure": 16
+        },
+        "meta": {
+            "source": "frames",
+            "sourceFile": "https://www.figma.com/file/rMQYTZWdTSIjCE6P0EeEXC",
+            "originFrameName": "Semantic Spacings"
+        },
+        "type": "measurement",
+        "originId": "1459:902",
+        "sourceId": "2bf02803-32b3-4705-8140-4ac692f9655e",
+        "repositoryId": "92ce4045-6b42-4a56-88ad-b40b44dfbba8"
+    },
+    {
+        "id": "10b17c18-703f-4dcb-97fb-e3b7d68b3806",
+        "createdAt": "2022-05-11T15:37:30.279Z",
+        "updatedAt": "2022-05-11T15:37:30.279Z",
+        "name": "spacing-inset-squish-xl-h",
+        "value": {
+            "unit": "px",
+            "measure": 40
+        },
+        "meta": {
+            "source": "frames",
+            "sourceFile": "https://www.figma.com/file/rMQYTZWdTSIjCE6P0EeEXC",
+            "originFrameName": "Semantic Spacings"
+        },
+        "type": "measurement",
+        "originId": "1404:1045",
+        "sourceId": "2bf02803-32b3-4705-8140-4ac692f9655e",
+        "repositoryId": "92ce4045-6b42-4a56-88ad-b40b44dfbba8"
+    },
+    {
+        "id": "17b128cf-e386-4c39-8706-87f6e30f044a",
+        "createdAt": "2022-05-11T15:37:30.280Z",
+        "updatedAt": "2022-05-11T15:37:30.280Z",
+        "name": "spacing-inset-squish-xl-v",
+        "value": {
+            "unit": "px",
+            "measure": 16
+        },
+        "meta": {
+            "source": "frames",
+            "sourceFile": "https://www.figma.com/file/rMQYTZWdTSIjCE6P0EeEXC",
+            "originFrameName": "Semantic Spacings"
+        },
+        "type": "measurement",
+        "originId": "1459:905",
+        "sourceId": "2bf02803-32b3-4705-8140-4ac692f9655e",
+        "repositoryId": "92ce4045-6b42-4a56-88ad-b40b44dfbba8"
+    },
+    {
+        "id": "1f346484-3d78-45e4-b84b-0182a3130851",
+        "createdAt": "2022-05-11T15:37:30.255Z",
+        "updatedAt": "2022-05-11T15:37:30.255Z",
+        "name": "spacing-inset-squish-xs",
+        "value": {
+            "unit": "px",
+            "measure": 4
+        },
+        "meta": {
+            "source": "frames",
+            "sourceFile": "https://www.figma.com/file/rMQYTZWdTSIjCE6P0EeEXC",
+            "originFrameName": "Semantic Spacings"
+        },
+        "type": "measurement",
+        "originId": "1404:1029",
+        "sourceId": "2bf02803-32b3-4705-8140-4ac692f9655e",
+        "repositoryId": "92ce4045-6b42-4a56-88ad-b40b44dfbba8"
+    },
+    {
+        "id": "6513adfe-c689-4cef-b9c3-5cfa4d5f876a",
+        "createdAt": "2022-05-11T15:37:30.259Z",
+        "updatedAt": "2022-05-11T15:37:30.259Z",
+        "name": "spacing-inset-squish-xs-v",
+        "value": {
+            "unit": "px",
+            "measure": 16
+        },
+        "meta": {
+            "source": "frames",
+            "sourceFile": "https://www.figma.com/file/rMQYTZWdTSIjCE6P0EeEXC",
+            "originFrameName": "Semantic Spacings"
+        },
+        "type": "measurement",
+        "originId": "1459:901",
+        "sourceId": "2bf02803-32b3-4705-8140-4ac692f9655e",
+        "repositoryId": "92ce4045-6b42-4a56-88ad-b40b44dfbba8"
+    },
+    {
+        "id": "de8d698a-d393-4e23-a0e2-20422ea7f807",
+        "createdAt": "2022-05-11T15:37:30.285Z",
+        "updatedAt": "2022-05-11T15:37:30.285Z",
+        "name": "spacing-inset-stetch-m-h",
+        "value": {
+            "unit": "px",
+            "measure": 10
+        },
+        "meta": {
+            "source": "frames",
+            "sourceFile": "https://www.figma.com/file/rMQYTZWdTSIjCE6P0EeEXC",
+            "originFrameName": "Semantic Spacings"
+        },
+        "type": "measurement",
+        "originId": "1404:1063",
+        "sourceId": "2bf02803-32b3-4705-8140-4ac692f9655e",
+        "repositoryId": "92ce4045-6b42-4a56-88ad-b40b44dfbba8"
+    },
+    {
+        "id": "c0e3e7c1-2046-4da4-a762-ee8e6c382507",
+        "createdAt": "2022-05-11T15:37:30.300Z",
+        "updatedAt": "2022-05-11T15:37:30.300Z",
+        "name": "spacing-inset-stetch-m-v",
+        "value": {
+            "unit": "px",
+            "measure": 16
+        },
+        "meta": {
+            "source": "frames",
+            "sourceFile": "https://www.figma.com/file/rMQYTZWdTSIjCE6P0EeEXC",
+            "originFrameName": "Semantic Spacings"
+        },
+        "type": "measurement",
+        "originId": "1459:913",
+        "sourceId": "2bf02803-32b3-4705-8140-4ac692f9655e",
+        "repositoryId": "92ce4045-6b42-4a56-88ad-b40b44dfbba8"
+    },
+    {
+        "id": "691caf8e-bc01-4ffb-a8a3-0fc0d14ba196",
+        "createdAt": "2022-05-11T15:37:30.283Z",
+        "updatedAt": "2022-05-11T15:37:30.283Z",
+        "name": "spacing-inset-stetch-s-h",
+        "value": {
+            "unit": "px",
+            "measure": 6
+        },
+        "meta": {
+            "source": "frames",
+            "sourceFile": "https://www.figma.com/file/rMQYTZWdTSIjCE6P0EeEXC",
+            "originFrameName": "Semantic Spacings"
+        },
+        "type": "measurement",
+        "originId": "1404:1059",
+        "sourceId": "2bf02803-32b3-4705-8140-4ac692f9655e",
+        "repositoryId": "92ce4045-6b42-4a56-88ad-b40b44dfbba8"
+    },
+    {
+        "id": "f4af1e63-d132-4fb1-8478-01e84acd860d",
+        "createdAt": "2022-05-11T15:37:30.284Z",
+        "updatedAt": "2022-05-11T15:37:30.284Z",
+        "name": "spacing-inset-stetch-s-v",
+        "value": {
+            "unit": "px",
+            "measure": 16
+        },
+        "meta": {
+            "source": "frames",
+            "sourceFile": "https://www.figma.com/file/rMQYTZWdTSIjCE6P0EeEXC",
+            "originFrameName": "Semantic Spacings"
+        },
+        "type": "measurement",
+        "originId": "1459:912",
+        "sourceId": "2bf02803-32b3-4705-8140-4ac692f9655e",
+        "repositoryId": "92ce4045-6b42-4a56-88ad-b40b44dfbba8"
+    },
+    {
+        "id": "5e61a97e-f96e-4bda-89c7-34fa165711ce",
+        "createdAt": "2022-05-11T15:37:30.300Z",
+        "updatedAt": "2022-05-11T15:37:30.300Z",
+        "name": "spacing-inset-stretch-l-h",
+        "value": {
+            "unit": "px",
+            "measure": 20
+        },
+        "meta": {
+            "source": "frames",
+            "sourceFile": "https://www.figma.com/file/rMQYTZWdTSIjCE6P0EeEXC",
+            "originFrameName": "Semantic Spacings"
+        },
+        "type": "measurement",
+        "originId": "1404:1067",
+        "sourceId": "2bf02803-32b3-4705-8140-4ac692f9655e",
+        "repositoryId": "92ce4045-6b42-4a56-88ad-b40b44dfbba8"
+    },
+    {
+        "id": "bb884e72-b1e3-43e9-97a7-6221471534de",
+        "createdAt": "2022-05-11T15:37:30.301Z",
+        "updatedAt": "2022-05-11T15:37:30.301Z",
+        "name": "spacing-inset-stretch-l-v",
+        "value": {
+            "unit": "px",
+            "measure": 16
+        },
+        "meta": {
+            "source": "frames",
+            "sourceFile": "https://www.figma.com/file/rMQYTZWdTSIjCE6P0EeEXC",
+            "originFrameName": "Semantic Spacings"
+        },
+        "type": "measurement",
+        "originId": "1459:914",
+        "sourceId": "2bf02803-32b3-4705-8140-4ac692f9655e",
+        "repositoryId": "92ce4045-6b42-4a56-88ad-b40b44dfbba8"
+    },
+    {
+        "id": "41b11204-6a3e-471b-9328-b6733155dd96",
+        "createdAt": "2022-05-11T15:37:30.301Z",
+        "updatedAt": "2022-05-11T15:37:30.301Z",
+        "name": "spacing-inset-stretch-xl-h",
+        "value": {
+            "unit": "px",
+            "measure": 40
+        },
+        "meta": {
+            "source": "frames",
+            "sourceFile": "https://www.figma.com/file/rMQYTZWdTSIjCE6P0EeEXC",
+            "originFrameName": "Semantic Spacings"
+        },
+        "type": "measurement",
+        "originId": "1404:1071",
+        "sourceId": "2bf02803-32b3-4705-8140-4ac692f9655e",
+        "repositoryId": "92ce4045-6b42-4a56-88ad-b40b44dfbba8"
+    },
+    {
+        "id": "80cc6835-e905-4786-bece-d2f4801da0e3",
+        "createdAt": "2022-05-11T15:37:30.301Z",
+        "updatedAt": "2022-05-11T15:37:30.301Z",
+        "name": "spacing-inset-stretch-xl-v",
+        "value": {
+            "unit": "px",
+            "measure": 16
+        },
+        "meta": {
+            "source": "frames",
+            "sourceFile": "https://www.figma.com/file/rMQYTZWdTSIjCE6P0EeEXC",
+            "originFrameName": "Semantic Spacings"
+        },
+        "type": "measurement",
+        "originId": "1459:915",
+        "sourceId": "2bf02803-32b3-4705-8140-4ac692f9655e",
+        "repositoryId": "92ce4045-6b42-4a56-88ad-b40b44dfbba8"
+    },
+    {
+        "id": "2bd1dc54-6052-4aad-89b1-28b55c9494bb",
+        "createdAt": "2022-05-11T15:37:30.282Z",
+        "updatedAt": "2022-05-11T15:37:30.282Z",
+        "name": "spacing-inset-stretch-xs-h",
+        "value": {
+            "unit": "px",
+            "measure": 4
+        },
+        "meta": {
+            "source": "frames",
+            "sourceFile": "https://www.figma.com/file/rMQYTZWdTSIjCE6P0EeEXC",
+            "originFrameName": "Semantic Spacings"
+        },
+        "type": "measurement",
+        "originId": "1404:1055",
+        "sourceId": "2bf02803-32b3-4705-8140-4ac692f9655e",
+        "repositoryId": "92ce4045-6b42-4a56-88ad-b40b44dfbba8"
+    },
+    {
+        "id": "feacdb6b-760a-4200-9fa8-67d3f5c5c229",
+        "createdAt": "2022-05-11T15:37:30.282Z",
+        "updatedAt": "2022-05-11T15:37:30.282Z",
+        "name": "spacing-inset-stretch-xs-v",
+        "value": {
+            "unit": "px",
+            "measure": 16
+        },
+        "meta": {
+            "source": "frames",
+            "sourceFile": "https://www.figma.com/file/rMQYTZWdTSIjCE6P0EeEXC",
+            "originFrameName": "Semantic Spacings"
+        },
+        "type": "measurement",
+        "originId": "1459:911",
+        "sourceId": "2bf02803-32b3-4705-8140-4ac692f9655e",
+        "repositoryId": "92ce4045-6b42-4a56-88ad-b40b44dfbba8"
+    },
+    {
+        "id": "65e3df8a-785f-4424-b059-4093a2d5eeac",
+        "createdAt": "2022-05-11T15:37:30.252Z",
+        "updatedAt": "2022-05-11T15:37:30.252Z",
+        "name": "spacing-inset-xl",
+        "value": {
+            "unit": "px",
+            "measure": 40
+        },
+        "meta": {
+            "source": "frames",
+            "sourceFile": "https://www.figma.com/file/rMQYTZWdTSIjCE6P0EeEXC",
+            "originFrameName": "Semantic Spacings"
+        },
+        "type": "measurement",
+        "originId": "1404:1023",
+        "sourceId": "2bf02803-32b3-4705-8140-4ac692f9655e",
+        "repositoryId": "92ce4045-6b42-4a56-88ad-b40b44dfbba8"
+    },
+    {
+        "id": "1829096e-74d3-4bc7-89a6-492471716c9c",
+        "createdAt": "2022-05-11T15:37:30.177Z",
+        "updatedAt": "2022-05-11T15:37:30.177Z",
+        "name": "spacing-inset-xs",
+        "value": {
+            "unit": "px",
+            "measure": 4
+        },
+        "meta": {
+            "source": "frames",
+            "sourceFile": "https://www.figma.com/file/rMQYTZWdTSIjCE6P0EeEXC",
+            "originFrameName": "Semantic Spacings"
+        },
+        "type": "measurement",
+        "originId": "1404:1007",
+        "sourceId": "2bf02803-32b3-4705-8140-4ac692f9655e",
+        "repositoryId": "92ce4045-6b42-4a56-88ad-b40b44dfbba8"
+    },
+    {
+        "id": "8be22e3c-d913-40be-9681-5f296c6b603f",
+        "createdAt": "2022-05-11T15:37:30.229Z",
+        "updatedAt": "2022-05-11T15:37:30.229Z",
+        "name": "spacing-stack-l",
+        "value": {
+            "unit": "px",
+            "measure": 20
+        },
+        "meta": {
+            "source": "frames",
+            "sourceFile": "https://www.figma.com/file/rMQYTZWdTSIjCE6P0EeEXC",
+            "originFrameName": "Semantic Spacings"
+        },
+        "type": "measurement",
+        "originId": "1404:955",
+        "sourceId": "2bf02803-32b3-4705-8140-4ac692f9655e",
+        "repositoryId": "92ce4045-6b42-4a56-88ad-b40b44dfbba8"
+    },
+    {
+        "id": "d126b44e-77f4-42d2-83d1-b4a612824083",
+        "createdAt": "2022-05-11T15:37:30.244Z",
+        "updatedAt": "2022-05-11T15:37:30.244Z",
+        "name": "spacing-stack-m",
+        "value": {
+            "unit": "px",
+            "measure": 10
+        },
+        "meta": {
+            "source": "frames",
+            "sourceFile": "https://www.figma.com/file/rMQYTZWdTSIjCE6P0EeEXC",
+            "originFrameName": "Semantic Spacings"
+        },
+        "type": "measurement",
+        "originId": "1404:959",
+        "sourceId": "2bf02803-32b3-4705-8140-4ac692f9655e",
+        "repositoryId": "92ce4045-6b42-4a56-88ad-b40b44dfbba8"
+    },
+    {
+        "id": "2c1f14de-e894-44df-bb21-425b6a551f54",
+        "createdAt": "2022-05-11T15:37:30.248Z",
+        "updatedAt": "2022-05-11T15:37:30.248Z",
+        "name": "spacing-stack-s",
+        "value": {
+            "unit": "px",
+            "measure": 6
+        },
+        "meta": {
+            "source": "frames",
+            "sourceFile": "https://www.figma.com/file/rMQYTZWdTSIjCE6P0EeEXC",
+            "originFrameName": "Semantic Spacings"
+        },
+        "type": "measurement",
+        "originId": "1404:963",
+        "sourceId": "2bf02803-32b3-4705-8140-4ac692f9655e",
+        "repositoryId": "92ce4045-6b42-4a56-88ad-b40b44dfbba8"
+    },
+    {
+        "id": "ebb5f0f3-7fdd-4f7b-89b6-0aa248d4f637",
+        "createdAt": "2022-05-11T15:37:30.231Z",
+        "updatedAt": "2022-05-11T15:37:30.231Z",
+        "name": "spacing-stack-xl",
+        "value": {
+            "unit": "px",
+            "measure": 40
+        },
+        "meta": {
+            "source": "frames",
+            "sourceFile": "https://www.figma.com/file/rMQYTZWdTSIjCE6P0EeEXC",
+            "originFrameName": "Semantic Spacings"
+        },
+        "type": "measurement",
+        "originId": "1404:951",
+        "sourceId": "2bf02803-32b3-4705-8140-4ac692f9655e",
+        "repositoryId": "92ce4045-6b42-4a56-88ad-b40b44dfbba8"
+    },
+    {
+        "id": "965bf04f-ad4b-4b8b-82f8-e7d00519ee5e",
+        "createdAt": "2022-05-11T15:37:30.151Z",
+        "updatedAt": "2022-05-11T15:37:30.151Z",
+        "name": "spacing-stack-xs",
+        "value": {
+            "unit": "px",
+            "measure": 4
+        },
+        "meta": {
+            "source": "frames",
+            "sourceFile": "https://www.figma.com/file/rMQYTZWdTSIjCE6P0EeEXC",
+            "originFrameName": "Semantic Spacings"
+        },
+        "type": "measurement",
+        "originId": "1404:967",
+        "sourceId": "2bf02803-32b3-4705-8140-4ac692f9655e",
+        "repositoryId": "92ce4045-6b42-4a56-88ad-b40b44dfbba8"
+    },
+    {
         "id": "37837349-3999-48d3-8e10-545b411db8d0",
         "createdAt": "2022-05-11T15:16:02.114Z",
         "updatedAt": "2022-05-11T15:16:02.114Z",
