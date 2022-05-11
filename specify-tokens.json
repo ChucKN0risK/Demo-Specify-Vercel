@@ -513,6 +513,82 @@
         "repositoryId": "92ce4045-6b42-4a56-88ad-b40b44dfbba8"
     },
     {
+        "id": "d3a579df-cd80-48d2-b9c1-a5f8ce1dc369",
+        "createdAt": "2022-05-11T15:39:01.644Z",
+        "updatedAt": "2022-05-11T15:39:01.644Z",
+        "name": "duration-fast",
+        "value": {
+            "unit": "ms",
+            "duration": 100
+        },
+        "meta": {
+            "source": "frames",
+            "sourceFile": "https://www.figma.com/file/rMQYTZWdTSIjCE6P0EeEXC",
+            "originFrameName": "Durations Scale"
+        },
+        "type": "duration",
+        "originId": "14:561",
+        "sourceId": "98f467f8-d35f-4989-abea-2c5eb2609d8c",
+        "repositoryId": "92ce4045-6b42-4a56-88ad-b40b44dfbba8"
+    },
+    {
+        "id": "d768fcbb-49c8-46fd-832b-ebed652995f2",
+        "createdAt": "2022-05-11T15:39:01.632Z",
+        "updatedAt": "2022-05-11T15:39:01.632Z",
+        "name": "duration-immediate",
+        "value": {
+            "unit": "ms",
+            "duration": 50
+        },
+        "meta": {
+            "source": "frames",
+            "sourceFile": "https://www.figma.com/file/rMQYTZWdTSIjCE6P0EeEXC",
+            "originFrameName": "Durations Scale"
+        },
+        "type": "duration",
+        "originId": "14:559",
+        "sourceId": "98f467f8-d35f-4989-abea-2c5eb2609d8c",
+        "repositoryId": "92ce4045-6b42-4a56-88ad-b40b44dfbba8"
+    },
+    {
+        "id": "040ab392-186d-4718-a38c-4ac221c8fbab",
+        "createdAt": "2022-05-11T15:39:01.644Z",
+        "updatedAt": "2022-05-11T15:39:01.644Z",
+        "name": "duration-medium",
+        "value": {
+            "unit": "ms",
+            "duration": 200
+        },
+        "meta": {
+            "source": "frames",
+            "sourceFile": "https://www.figma.com/file/rMQYTZWdTSIjCE6P0EeEXC",
+            "originFrameName": "Durations Scale"
+        },
+        "type": "duration",
+        "originId": "96:503",
+        "sourceId": "98f467f8-d35f-4989-abea-2c5eb2609d8c",
+        "repositoryId": "92ce4045-6b42-4a56-88ad-b40b44dfbba8"
+    },
+    {
+        "id": "a76115cd-f932-4828-b961-f2661c71f35c",
+        "createdAt": "2022-05-11T15:39:01.653Z",
+        "updatedAt": "2022-05-11T15:39:01.653Z",
+        "name": "duration-slow",
+        "value": {
+            "unit": "ms",
+            "duration": 300
+        },
+        "meta": {
+            "source": "frames",
+            "sourceFile": "https://www.figma.com/file/rMQYTZWdTSIjCE6P0EeEXC",
+            "originFrameName": "Durations Scale"
+        },
+        "type": "duration",
+        "originId": "96:504",
+        "sourceId": "98f467f8-d35f-4989-abea-2c5eb2609d8c",
+        "repositoryId": "92ce4045-6b42-4a56-88ad-b40b44dfbba8"
+    },
+    {
         "id": "d79c6e84-be6c-4ef9-ae93-ef411e755248",
         "createdAt": "2022-05-11T15:16:02.143Z",
         "updatedAt": "2022-05-11T15:16:02.143Z",
