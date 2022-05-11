@@ -686,13 +686,13 @@
     {
         "id": "4f2351bb-539c-45a4-b290-06fbdbb142af",
         "createdAt": "2022-05-11T15:16:02.148Z",
-        "updatedAt": "2022-05-11T15:28:58.490Z",
+        "updatedAt": "2022-05-11T15:31:19.919Z",
         "name": "scale/primary/default",
         "value": {
             "a": 1,
-            "b": 27,
-            "g": 13,
-            "r": 244
+            "b": 237,
+            "g": 7,
+            "r": 12
         },
         "meta": {
             "source": "localStyles"
