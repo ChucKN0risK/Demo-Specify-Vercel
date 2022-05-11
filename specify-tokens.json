@@ -1,0 +1,1503 @@
+[
+    {
+        "id": "cf472fa1-09b4-4517-88bf-3b9d77a6e98c",
+        "createdAt": "2022-05-11T15:16:01.951Z",
+        "updatedAt": "2022-05-11T15:16:01.951Z",
+        "name": "background-color/accent",
+        "value": {
+            "a": 1,
+            "b": 243,
+            "g": 239,
+            "r": 236
+        },
+        "meta": {
+            "source": "localStyles"
+        },
+        "type": "color",
+        "originId": "1459:676",
+        "sourceId": "cea6b16f-63ca-4e14-9057-51b2a617e4e2",
+        "repositoryId": "92ce4045-6b42-4a56-88ad-b40b44dfbba8"
+    },
+    {
+        "id": "729360e8-d50c-4f18-840e-4e1b9b17b476",
+        "createdAt": "2022-05-11T15:16:01.907Z",
+        "updatedAt": "2022-05-11T15:16:01.907Z",
+        "name": "background-color/accent-inverted",
+        "value": {
+            "a": 1,
+            "b": 243,
+            "g": 239,
+            "r": 236
+        },
+        "meta": {
+            "source": "localStyles"
+        },
+        "type": "color",
+        "originId": "1459:895",
+        "sourceId": "cea6b16f-63ca-4e14-9057-51b2a617e4e2",
+        "repositoryId": "92ce4045-6b42-4a56-88ad-b40b44dfbba8"
+    },
+    {
+        "id": "74ac6206-ed52-40c4-9f05-c5f579d2b6b3",
+        "createdAt": "2022-05-11T15:16:02.148Z",
+        "updatedAt": "2022-05-11T15:16:02.148Z",
+        "name": "background-color/clear/default",
+        "value": {
+            "a": 0,
+            "b": 106,
+            "g": 86,
+            "r": 6
+        },
+        "meta": {
+            "source": "localStyles"
+        },
+        "type": "color",
+        "originId": "1459:873",
+        "sourceId": "cea6b16f-63ca-4e14-9057-51b2a617e4e2",
+        "repositoryId": "92ce4045-6b42-4a56-88ad-b40b44dfbba8"
+    },
+    {
+        "id": "f4088859-127f-4317-bd8f-e39a641c7a91",
+        "createdAt": "2022-05-11T15:16:02.155Z",
+        "updatedAt": "2022-05-11T15:16:02.155Z",
+        "name": "background-color/clear/interactive",
+        "value": {
+            "a": 0,
+            "b": 106,
+            "g": 86,
+            "r": 6
+        },
+        "meta": {
+            "source": "localStyles"
+        },
+        "type": "color",
+        "originId": "1459:874",
+        "sourceId": "cea6b16f-63ca-4e14-9057-51b2a617e4e2",
+        "repositoryId": "92ce4045-6b42-4a56-88ad-b40b44dfbba8"
+    },
+    {
+        "id": "a4ede933-a38b-4c98-8475-25786012b871",
+        "createdAt": "2022-05-11T15:16:02.006Z",
+        "updatedAt": "2022-05-11T15:16:02.006Z",
+        "name": "background-color/clear/interactive-active",
+        "value": {
+            "a": 0.2,
+            "b": 106,
+            "g": 86,
+            "r": 6
+        },
+        "meta": {
+            "source": "localStyles"
+        },
+        "type": "color",
+        "originId": "1459:876",
+        "sourceId": "cea6b16f-63ca-4e14-9057-51b2a617e4e2",
+        "repositoryId": "92ce4045-6b42-4a56-88ad-b40b44dfbba8"
+    },
+    {
+        "id": "82a34577-74a9-4991-a5c2-0e106ef3384f",
+        "createdAt": "2022-05-11T15:16:02.159Z",
+        "updatedAt": "2022-05-11T15:16:02.159Z",
+        "name": "background-color/clear/interactive-hover",
+        "value": {
+            "a": 0.1,
+            "b": 106,
+            "g": 86,
+            "r": 6
+        },
+        "meta": {
+            "source": "localStyles"
+        },
+        "type": "color",
+        "originId": "1459:875",
+        "sourceId": "cea6b16f-63ca-4e14-9057-51b2a617e4e2",
+        "repositoryId": "92ce4045-6b42-4a56-88ad-b40b44dfbba8"
+    },
+    {
+        "id": "d8d2654b-c624-4a3e-8f55-2d16bcec2569",
+        "createdAt": "2022-05-11T15:16:02.160Z",
+        "updatedAt": "2022-05-11T15:16:02.160Z",
+        "name": "background-color/clear-inverted/default",
+        "value": {
+            "a": 0,
+            "b": 255,
+            "g": 255,
+            "r": 255
+        },
+        "meta": {
+            "source": "localStyles"
+        },
+        "type": "color",
+        "originId": "1459:877",
+        "sourceId": "cea6b16f-63ca-4e14-9057-51b2a617e4e2",
+        "repositoryId": "92ce4045-6b42-4a56-88ad-b40b44dfbba8"
+    },
+    {
+        "id": "13f382fc-dc74-44f2-bfbe-b0c6b85a5c46",
+        "createdAt": "2022-05-11T15:16:02.148Z",
+        "updatedAt": "2022-05-11T15:16:02.148Z",
+        "name": "background-color/clear-inverted/interactive",
+        "value": {
+            "a": 0,
+            "b": 255,
+            "g": 255,
+            "r": 255
+        },
+        "meta": {
+            "source": "localStyles"
+        },
+        "type": "color",
+        "originId": "1459:878",
+        "sourceId": "cea6b16f-63ca-4e14-9057-51b2a617e4e2",
+        "repositoryId": "92ce4045-6b42-4a56-88ad-b40b44dfbba8"
+    },
+    {
+        "id": "30fd994c-c57a-46d7-a277-23b890202875",
+        "createdAt": "2022-05-11T15:16:02.145Z",
+        "updatedAt": "2022-05-11T15:16:02.145Z",
+        "name": "background-color/clear-inverted/interactive-active",
+        "value": {
+            "a": 0.2,
+            "b": 255,
+            "g": 255,
+            "r": 255
+        },
+        "meta": {
+            "source": "localStyles"
+        },
+        "type": "color",
+        "originId": "1459:880",
+        "sourceId": "cea6b16f-63ca-4e14-9057-51b2a617e4e2",
+        "repositoryId": "92ce4045-6b42-4a56-88ad-b40b44dfbba8"
+    },
+    {
+        "id": "19adcdd6-6705-45e4-9b6e-105cafedc023",
+        "createdAt": "2022-05-11T15:16:02.157Z",
+        "updatedAt": "2022-05-11T15:16:02.157Z",
+        "name": "background-color/clear-inverted/interactive-hover",
+        "value": {
+            "a": 0.1,
+            "b": 255,
+            "g": 255,
+            "r": 255
+        },
+        "meta": {
+            "source": "localStyles"
+        },
+        "type": "color",
+        "originId": "1459:879",
+        "sourceId": "cea6b16f-63ca-4e14-9057-51b2a617e4e2",
+        "repositoryId": "92ce4045-6b42-4a56-88ad-b40b44dfbba8"
+    },
+    {
+        "id": "755a026b-d6f5-4055-8eac-4ba299d29c27",
+        "createdAt": "2022-05-11T15:16:02.052Z",
+        "updatedAt": "2022-05-11T15:16:02.052Z",
+        "name": "background-color/default",
+        "value": {
+            "a": 1,
+            "b": 255,
+            "g": 255,
+            "r": 255
+        },
+        "meta": {
+            "source": "localStyles"
+        },
+        "type": "color",
+        "originId": "1459:365",
+        "sourceId": "cea6b16f-63ca-4e14-9057-51b2a617e4e2",
+        "repositoryId": "92ce4045-6b42-4a56-88ad-b40b44dfbba8"
+    },
+    {
+        "id": "466d5d31-b423-4236-9565-bb1d6c64b16f",
+        "createdAt": "2022-05-11T15:16:02.053Z",
+        "updatedAt": "2022-05-11T15:16:02.053Z",
+        "name": "background-color/default-inverted",
+        "value": {
+            "a": 1,
+            "b": 106,
+            "g": 86,
+            "r": 6
+        },
+        "meta": {
+            "source": "localStyles"
+        },
+        "type": "color",
+        "originId": "1459:377",
+        "sourceId": "cea6b16f-63ca-4e14-9057-51b2a617e4e2",
+        "repositoryId": "92ce4045-6b42-4a56-88ad-b40b44dfbba8"
+    },
+    {
+        "id": "bf13bc59-3cf5-43a8-8e38-ecad7aba4c01",
+        "createdAt": "2022-05-11T15:16:01.915Z",
+        "updatedAt": "2022-05-11T15:16:01.915Z",
+        "name": "background-color/interface/default",
+        "value": {
+            "a": 1,
+            "b": 229,
+            "g": 229,
+            "r": 229
+        },
+        "meta": {
+            "source": "localStyles"
+        },
+        "type": "color",
+        "originId": "1361:698",
+        "sourceId": "cea6b16f-63ca-4e14-9057-51b2a617e4e2",
+        "repositoryId": "92ce4045-6b42-4a56-88ad-b40b44dfbba8"
+    },
+    {
+        "id": "81c2fca7-fa22-4dd1-a906-adada36e90df",
+        "createdAt": "2022-05-11T15:16:02.002Z",
+        "updatedAt": "2022-05-11T15:16:02.002Z",
+        "name": "background-color/interface/interactive",
+        "value": {
+            "a": 1,
+            "b": 205,
+            "g": 205,
+            "r": 205
+        },
+        "meta": {
+            "source": "localStyles"
+        },
+        "type": "color",
+        "originId": "1361:699",
+        "sourceId": "cea6b16f-63ca-4e14-9057-51b2a617e4e2",
+        "repositoryId": "92ce4045-6b42-4a56-88ad-b40b44dfbba8"
+    },
+    {
+        "id": "d1730355-88ae-45cb-acba-5e8db5b39c0c",
+        "createdAt": "2022-05-11T15:16:02.115Z",
+        "updatedAt": "2022-05-11T15:16:02.115Z",
+        "name": "background-color/interface/interactive-active",
+        "value": {
+            "a": 1,
+            "b": 218,
+            "g": 208,
+            "r": 167
+        },
+        "meta": {
+            "source": "localStyles"
+        },
+        "type": "color",
+        "originId": "1361:707",
+        "sourceId": "cea6b16f-63ca-4e14-9057-51b2a617e4e2",
+        "repositoryId": "92ce4045-6b42-4a56-88ad-b40b44dfbba8"
+    },
+    {
+        "id": "df4c8503-5f81-4cc7-be60-5208e1504370",
+        "createdAt": "2022-05-11T15:16:01.929Z",
+        "updatedAt": "2022-05-11T15:16:01.929Z",
+        "name": "background-color/interface/interactive-disabled",
+        "value": {
+            "a": 1,
+            "b": 245,
+            "g": 245,
+            "r": 245
+        },
+        "meta": {
+            "source": "localStyles"
+        },
+        "type": "color",
+        "originId": "1361:700",
+        "sourceId": "cea6b16f-63ca-4e14-9057-51b2a617e4e2",
+        "repositoryId": "92ce4045-6b42-4a56-88ad-b40b44dfbba8"
+    },
+    {
+        "id": "2574a44e-0331-4b4c-a69b-48cd94c453dd",
+        "createdAt": "2022-05-11T15:16:02.085Z",
+        "updatedAt": "2022-05-11T15:16:02.085Z",
+        "name": "background-color/interface/interactive-hover",
+        "value": {
+            "a": 1,
+            "b": 229,
+            "g": 229,
+            "r": 229
+        },
+        "meta": {
+            "source": "localStyles"
+        },
+        "type": "color",
+        "originId": "1361:701",
+        "sourceId": "cea6b16f-63ca-4e14-9057-51b2a617e4e2",
+        "repositoryId": "92ce4045-6b42-4a56-88ad-b40b44dfbba8"
+    },
+    {
+        "id": "901a097e-2a87-4012-afac-1a3f9db5e787",
+        "createdAt": "2022-05-11T15:16:02.061Z",
+        "updatedAt": "2022-05-11T15:16:02.061Z",
+        "name": "background-color/primary/default",
+        "value": {
+            "a": 1,
+            "b": 106,
+            "g": 86,
+            "r": 6
+        },
+        "meta": {
+            "source": "localStyles"
+        },
+        "type": "color",
+        "originId": "1361:297",
+        "sourceId": "cea6b16f-63ca-4e14-9057-51b2a617e4e2",
+        "repositoryId": "92ce4045-6b42-4a56-88ad-b40b44dfbba8"
+    },
+    {
+        "id": "f857e046-60c9-4e83-89df-92fbef33713c",
+        "createdAt": "2022-05-11T15:16:02.148Z",
+        "updatedAt": "2022-05-11T15:16:02.148Z",
+        "name": "background-color/primary/interactive",
+        "value": {
+            "a": 1,
+            "b": 106,
+            "g": 86,
+            "r": 6
+        },
+        "meta": {
+            "source": "localStyles"
+        },
+        "type": "color",
+        "originId": "1361:298",
+        "sourceId": "cea6b16f-63ca-4e14-9057-51b2a617e4e2",
+        "repositoryId": "92ce4045-6b42-4a56-88ad-b40b44dfbba8"
+    },
+    {
+        "id": "4c2db907-637a-40f4-9846-27d33bba5063",
+        "createdAt": "2022-05-11T15:16:02.045Z",
+        "updatedAt": "2022-05-11T15:16:02.045Z",
+        "name": "background-color/primary/interactive-active",
+        "value": {
+            "a": 1,
+            "b": 218,
+            "g": 208,
+            "r": 167
+        },
+        "meta": {
+            "source": "localStyles"
+        },
+        "type": "color",
+        "originId": "1361:470",
+        "sourceId": "cea6b16f-63ca-4e14-9057-51b2a617e4e2",
+        "repositoryId": "92ce4045-6b42-4a56-88ad-b40b44dfbba8"
+    },
+    {
+        "id": "61c680fb-7351-406f-9711-36dfc4e90539",
+        "createdAt": "2022-05-11T15:16:02.084Z",
+        "updatedAt": "2022-05-11T15:16:02.084Z",
+        "name": "background-color/primary/interactive-hover",
+        "value": {
+            "a": 1,
+            "b": 167,
+            "g": 149,
+            "r": 79
+        },
+        "meta": {
+            "source": "localStyles"
+        },
+        "type": "color",
+        "originId": "1361:299",
+        "sourceId": "cea6b16f-63ca-4e14-9057-51b2a617e4e2",
+        "repositoryId": "92ce4045-6b42-4a56-88ad-b40b44dfbba8"
+    },
+    {
+        "id": "19a2aa3d-4535-47cf-be94-dce7a9184e7b",
+        "createdAt": "2022-05-11T15:16:02.083Z",
+        "updatedAt": "2022-05-11T15:16:02.083Z",
+        "name": "background-color/primary-inverted/default",
+        "value": {
+            "a": 1,
+            "b": 0,
+            "g": 255,
+            "r": 236
+        },
+        "meta": {
+            "source": "localStyles"
+        },
+        "type": "color",
+        "originId": "1361:511",
+        "sourceId": "cea6b16f-63ca-4e14-9057-51b2a617e4e2",
+        "repositoryId": "92ce4045-6b42-4a56-88ad-b40b44dfbba8"
+    },
+    {
+        "id": "54847870-dbd9-47fe-9f97-e5b90f7692df",
+        "createdAt": "2022-05-11T15:16:02.084Z",
+        "updatedAt": "2022-05-11T15:16:02.084Z",
+        "name": "background-color/primary-inverted/interactive",
+        "value": {
+            "a": 1,
+            "b": 0,
+            "g": 255,
+            "r": 236
+        },
+        "meta": {
+            "source": "localStyles"
+        },
+        "type": "color",
+        "originId": "1361:512",
+        "sourceId": "cea6b16f-63ca-4e14-9057-51b2a617e4e2",
+        "repositoryId": "92ce4045-6b42-4a56-88ad-b40b44dfbba8"
+    },
+    {
+        "id": "76c333d9-a3eb-4d56-bea8-54494d7189d7",
+        "createdAt": "2022-05-11T15:16:02.055Z",
+        "updatedAt": "2022-05-11T15:16:02.055Z",
+        "name": "background-color/primary-inverted/interactive-active",
+        "value": {
+            "a": 1,
+            "b": 255,
+            "g": 255,
+            "r": 255
+        },
+        "meta": {
+            "source": "localStyles"
+        },
+        "type": "color",
+        "originId": "1361:514",
+        "sourceId": "cea6b16f-63ca-4e14-9057-51b2a617e4e2",
+        "repositoryId": "92ce4045-6b42-4a56-88ad-b40b44dfbba8"
+    },
+    {
+        "id": "acfb1297-d52d-4c04-92bf-c32d27c4a256",
+        "createdAt": "2022-05-11T15:16:02.115Z",
+        "updatedAt": "2022-05-11T15:16:02.115Z",
+        "name": "background-color/primary-inverted/interactive-hover",
+        "value": {
+            "a": 1,
+            "b": 195,
+            "g": 255,
+            "r": 251
+        },
+        "meta": {
+            "source": "localStyles"
+        },
+        "type": "color",
+        "originId": "1361:513",
+        "sourceId": "cea6b16f-63ca-4e14-9057-51b2a617e4e2",
+        "repositoryId": "92ce4045-6b42-4a56-88ad-b40b44dfbba8"
+    },
+    {
+        "id": "d640f9b5-dd7f-49f4-9bf2-429c160a2ffe",
+        "createdAt": "2022-05-11T15:16:02.115Z",
+        "updatedAt": "2022-05-11T15:16:02.115Z",
+        "name": "background-color/primary-inverted/translucent",
+        "value": {
+            "a": 0.6,
+            "b": 0,
+            "g": 255,
+            "r": 236
+        },
+        "meta": {
+            "source": "localStyles"
+        },
+        "type": "color",
+        "originId": "1459:322",
+        "sourceId": "cea6b16f-63ca-4e14-9057-51b2a617e4e2",
+        "repositoryId": "92ce4045-6b42-4a56-88ad-b40b44dfbba8"
+    },
+    {
+        "id": "87d38c96-353a-40e0-ae1b-da7873efd298",
+        "createdAt": "2022-05-11T15:16:02.153Z",
+        "updatedAt": "2022-05-11T15:16:02.153Z",
+        "name": "background-color/primary/translucent",
+        "value": {
+            "a": 0.6,
+            "b": 106,
+            "g": 86,
+            "r": 6
+        },
+        "meta": {
+            "source": "localStyles"
+        },
+        "type": "color",
+        "originId": "1459:329",
+        "sourceId": "cea6b16f-63ca-4e14-9057-51b2a617e4e2",
+        "repositoryId": "92ce4045-6b42-4a56-88ad-b40b44dfbba8"
+    },
+    {
+        "id": "d79c6e84-be6c-4ef9-ae93-ef411e755248",
+        "createdAt": "2022-05-11T15:16:02.143Z",
+        "updatedAt": "2022-05-11T15:16:02.143Z",
+        "name": "scale/primary/alpha/1",
+        "value": {
+            "a": 0.05,
+            "b": 106,
+            "g": 86,
+            "r": 6
+        },
+        "meta": {
+            "source": "localStyles"
+        },
+        "type": "color",
+        "originId": "1457:251",
+        "sourceId": "cea6b16f-63ca-4e14-9057-51b2a617e4e2",
+        "repositoryId": "92ce4045-6b42-4a56-88ad-b40b44dfbba8"
+    },
+    {
+        "id": "a13a4741-af3e-4c89-9d42-c73d40a12994",
+        "createdAt": "2022-05-11T15:16:02.167Z",
+        "updatedAt": "2022-05-11T15:16:02.167Z",
+        "name": "scale/primary/alpha/2",
+        "value": {
+            "a": 0.13,
+            "b": 106,
+            "g": 86,
+            "r": 6
+        },
+        "meta": {
+            "source": "localStyles"
+        },
+        "type": "color",
+        "originId": "1457:257",
+        "sourceId": "cea6b16f-63ca-4e14-9057-51b2a617e4e2",
+        "repositoryId": "92ce4045-6b42-4a56-88ad-b40b44dfbba8"
+    },
+    {
+        "id": "c99e287a-18de-41d5-a28d-1cf26577f35e",
+        "createdAt": "2022-05-11T15:16:02.145Z",
+        "updatedAt": "2022-05-11T15:16:02.145Z",
+        "name": "scale/primary/alpha/3",
+        "value": {
+            "a": 0.24,
+            "b": 106,
+            "g": 86,
+            "r": 6
+        },
+        "meta": {
+            "source": "localStyles"
+        },
+        "type": "color",
+        "originId": "1457:263",
+        "sourceId": "cea6b16f-63ca-4e14-9057-51b2a617e4e2",
+        "repositoryId": "92ce4045-6b42-4a56-88ad-b40b44dfbba8"
+    },
+    {
+        "id": "d3c78ba4-56be-4bfd-abd4-eaa8f95cc341",
+        "createdAt": "2022-05-11T15:16:01.917Z",
+        "updatedAt": "2022-05-11T15:16:01.917Z",
+        "name": "scale/primary/alpha/4",
+        "value": {
+            "a": 0.37,
+            "b": 106,
+            "g": 86,
+            "r": 6
+        },
+        "meta": {
+            "source": "localStyles"
+        },
+        "type": "color",
+        "originId": "1457:269",
+        "sourceId": "cea6b16f-63ca-4e14-9057-51b2a617e4e2",
+        "repositoryId": "92ce4045-6b42-4a56-88ad-b40b44dfbba8"
+    },
+    {
+        "id": "77cd1fee-b3ef-4822-a125-5c03bf77f50f",
+        "createdAt": "2022-05-11T15:16:01.915Z",
+        "updatedAt": "2022-05-11T15:16:01.915Z",
+        "name": "scale/primary/alpha/5",
+        "value": {
+            "a": 0.5,
+            "b": 106,
+            "g": 86,
+            "r": 6
+        },
+        "meta": {
+            "source": "localStyles"
+        },
+        "type": "color",
+        "originId": "1457:275",
+        "sourceId": "cea6b16f-63ca-4e14-9057-51b2a617e4e2",
+        "repositoryId": "92ce4045-6b42-4a56-88ad-b40b44dfbba8"
+    },
+    {
+        "id": "fcdf6ca5-437f-452e-8c2a-7c873d8db209",
+        "createdAt": "2022-05-11T15:16:02.163Z",
+        "updatedAt": "2022-05-11T15:16:02.163Z",
+        "name": "scale/primary/alpha/6",
+        "value": {
+            "a": 0.63,
+            "b": 106,
+            "g": 86,
+            "r": 6
+        },
+        "meta": {
+            "source": "localStyles"
+        },
+        "type": "color",
+        "originId": "1458:354",
+        "sourceId": "cea6b16f-63ca-4e14-9057-51b2a617e4e2",
+        "repositoryId": "92ce4045-6b42-4a56-88ad-b40b44dfbba8"
+    },
+    {
+        "id": "3a872e90-c4ba-4a78-95f4-9235164420b2",
+        "createdAt": "2022-05-11T15:16:02.159Z",
+        "updatedAt": "2022-05-11T15:16:02.159Z",
+        "name": "scale/primary/alpha/7",
+        "value": {
+            "a": 0.76,
+            "b": 106,
+            "g": 86,
+            "r": 6
+        },
+        "meta": {
+            "source": "localStyles"
+        },
+        "type": "color",
+        "originId": "1458:270",
+        "sourceId": "cea6b16f-63ca-4e14-9057-51b2a617e4e2",
+        "repositoryId": "92ce4045-6b42-4a56-88ad-b40b44dfbba8"
+    },
+    {
+        "id": "3f42517f-7e09-45fd-8d7d-c1ea00a8e9a8",
+        "createdAt": "2022-05-11T15:16:02.159Z",
+        "updatedAt": "2022-05-11T15:16:02.159Z",
+        "name": "scale/primary/alpha/8",
+        "value": {
+            "a": 0.87,
+            "b": 106,
+            "g": 86,
+            "r": 6
+        },
+        "meta": {
+            "source": "localStyles"
+        },
+        "type": "color",
+        "originId": "1458:271",
+        "sourceId": "cea6b16f-63ca-4e14-9057-51b2a617e4e2",
+        "repositoryId": "92ce4045-6b42-4a56-88ad-b40b44dfbba8"
+    },
+    {
+        "id": "fd141e2b-d15f-4fb9-91ce-19885b7571a8",
+        "createdAt": "2022-05-11T15:16:02.160Z",
+        "updatedAt": "2022-05-11T15:16:02.160Z",
+        "name": "scale/primary/alpha/9",
+        "value": {
+            "a": 0.95,
+            "b": 106,
+            "g": 86,
+            "r": 6
+        },
+        "meta": {
+            "source": "localStyles"
+        },
+        "type": "color",
+        "originId": "1458:272",
+        "sourceId": "cea6b16f-63ca-4e14-9057-51b2a617e4e2",
+        "repositoryId": "92ce4045-6b42-4a56-88ad-b40b44dfbba8"
+    },
+    {
+        "id": "4f2351bb-539c-45a4-b290-06fbdbb142af",
+        "createdAt": "2022-05-11T15:16:02.148Z",
+        "updatedAt": "2022-05-11T15:16:02.148Z",
+        "name": "scale/primary/default",
+        "value": {
+            "a": 1,
+            "b": 106,
+            "g": 86,
+            "r": 6
+        },
+        "meta": {
+            "source": "localStyles"
+        },
+        "type": "color",
+        "originId": "1396:678",
+        "sourceId": "cea6b16f-63ca-4e14-9057-51b2a617e4e2",
+        "repositoryId": "92ce4045-6b42-4a56-88ad-b40b44dfbba8"
+    },
+    {
+        "id": "43f665af-d51f-4814-ab3f-283761f21088",
+        "createdAt": "2022-05-11T15:16:02.125Z",
+        "updatedAt": "2022-05-11T15:16:02.125Z",
+        "name": "scale/primary-inverted/alpha/1",
+        "value": {
+            "a": 0.05,
+            "b": 0,
+            "g": 255,
+            "r": 236
+        },
+        "meta": {
+            "source": "localStyles"
+        },
+        "type": "color",
+        "originId": "1458:383",
+        "sourceId": "cea6b16f-63ca-4e14-9057-51b2a617e4e2",
+        "repositoryId": "92ce4045-6b42-4a56-88ad-b40b44dfbba8"
+    },
+    {
+        "id": "fd364dd8-048f-4050-8f3a-65f4ecfb787c",
+        "createdAt": "2022-05-11T15:16:02.114Z",
+        "updatedAt": "2022-05-11T15:16:02.114Z",
+        "name": "scale/primary-inverted/alpha/2",
+        "value": {
+            "a": 0.13,
+            "b": 0,
+            "g": 255,
+            "r": 236
+        },
+        "meta": {
+            "source": "localStyles"
+        },
+        "type": "color",
+        "originId": "1458:384",
+        "sourceId": "cea6b16f-63ca-4e14-9057-51b2a617e4e2",
+        "repositoryId": "92ce4045-6b42-4a56-88ad-b40b44dfbba8"
+    },
+    {
+        "id": "b2935bec-7a3d-4195-9e28-06618732e830",
+        "createdAt": "2022-05-11T15:16:02.145Z",
+        "updatedAt": "2022-05-11T15:16:02.145Z",
+        "name": "scale/primary-inverted/alpha/3",
+        "value": {
+            "a": 0.24,
+            "b": 0,
+            "g": 255,
+            "r": 236
+        },
+        "meta": {
+            "source": "localStyles"
+        },
+        "type": "color",
+        "originId": "1458:385",
+        "sourceId": "cea6b16f-63ca-4e14-9057-51b2a617e4e2",
+        "repositoryId": "92ce4045-6b42-4a56-88ad-b40b44dfbba8"
+    },
+    {
+        "id": "133f38c8-72de-4389-a539-dd07a47b1ff2",
+        "createdAt": "2022-05-11T15:16:02.056Z",
+        "updatedAt": "2022-05-11T15:16:02.056Z",
+        "name": "scale/primary-inverted/alpha/4",
+        "value": {
+            "a": 0.37,
+            "b": 0,
+            "g": 255,
+            "r": 236
+        },
+        "meta": {
+            "source": "localStyles"
+        },
+        "type": "color",
+        "originId": "1458:386",
+        "sourceId": "cea6b16f-63ca-4e14-9057-51b2a617e4e2",
+        "repositoryId": "92ce4045-6b42-4a56-88ad-b40b44dfbba8"
+    },
+    {
+        "id": "b8548586-ff57-41f0-ae4c-db767cb1718e",
+        "createdAt": "2022-05-11T15:16:02.157Z",
+        "updatedAt": "2022-05-11T15:16:02.157Z",
+        "name": "scale/primary-inverted/alpha/5",
+        "value": {
+            "a": 0.5,
+            "b": 0,
+            "g": 255,
+            "r": 236
+        },
+        "meta": {
+            "source": "localStyles"
+        },
+        "type": "color",
+        "originId": "1458:387",
+        "sourceId": "cea6b16f-63ca-4e14-9057-51b2a617e4e2",
+        "repositoryId": "92ce4045-6b42-4a56-88ad-b40b44dfbba8"
+    },
+    {
+        "id": "aed43c79-3400-47fc-b9fe-42274cfdba73",
+        "createdAt": "2022-05-11T15:16:02.148Z",
+        "updatedAt": "2022-05-11T15:16:02.148Z",
+        "name": "scale/primary-inverted/alpha/6",
+        "value": {
+            "a": 0.63,
+            "b": 0,
+            "g": 255,
+            "r": 236
+        },
+        "meta": {
+            "source": "localStyles"
+        },
+        "type": "color",
+        "originId": "1458:388",
+        "sourceId": "cea6b16f-63ca-4e14-9057-51b2a617e4e2",
+        "repositoryId": "92ce4045-6b42-4a56-88ad-b40b44dfbba8"
+    },
+    {
+        "id": "35c2c9ee-b12d-46bb-89e7-c6476a680cb1",
+        "createdAt": "2022-05-11T15:16:01.904Z",
+        "updatedAt": "2022-05-11T15:16:01.904Z",
+        "name": "scale/primary-inverted/alpha/7",
+        "value": {
+            "a": 0.76,
+            "b": 0,
+            "g": 255,
+            "r": 236
+        },
+        "meta": {
+            "source": "localStyles"
+        },
+        "type": "color",
+        "originId": "1458:389",
+        "sourceId": "cea6b16f-63ca-4e14-9057-51b2a617e4e2",
+        "repositoryId": "92ce4045-6b42-4a56-88ad-b40b44dfbba8"
+    },
+    {
+        "id": "b3a7f5b5-c76f-4824-b4fd-cb0977a03e43",
+        "createdAt": "2022-05-11T15:16:01.886Z",
+        "updatedAt": "2022-05-11T15:16:01.886Z",
+        "name": "scale/primary-inverted/alpha/8",
+        "value": {
+            "a": 0.87,
+            "b": 0,
+            "g": 255,
+            "r": 236
+        },
+        "meta": {
+            "source": "localStyles"
+        },
+        "type": "color",
+        "originId": "1458:390",
+        "sourceId": "cea6b16f-63ca-4e14-9057-51b2a617e4e2",
+        "repositoryId": "92ce4045-6b42-4a56-88ad-b40b44dfbba8"
+    },
+    {
+        "id": "ec845c5c-a7bf-4bff-bb46-d794af44be3b",
+        "createdAt": "2022-05-11T15:16:02.150Z",
+        "updatedAt": "2022-05-11T15:16:02.150Z",
+        "name": "scale/primary-inverted/alpha/9",
+        "value": {
+            "a": 0.95,
+            "b": 0,
+            "g": 255,
+            "r": 236
+        },
+        "meta": {
+            "source": "localStyles"
+        },
+        "type": "color",
+        "originId": "1458:391",
+        "sourceId": "cea6b16f-63ca-4e14-9057-51b2a617e4e2",
+        "repositoryId": "92ce4045-6b42-4a56-88ad-b40b44dfbba8"
+    },
+    {
+        "id": "3fdc8b16-9978-443a-bd7b-e01ec4d0ad78",
+        "createdAt": "2022-05-11T15:16:02.126Z",
+        "updatedAt": "2022-05-11T15:16:02.126Z",
+        "name": "scale/primary-inverted/default",
+        "value": {
+            "a": 1,
+            "b": 0,
+            "g": 255,
+            "r": 236
+        },
+        "meta": {
+            "source": "localStyles"
+        },
+        "type": "color",
+        "originId": "1396:681",
+        "sourceId": "cea6b16f-63ca-4e14-9057-51b2a617e4e2",
+        "repositoryId": "92ce4045-6b42-4a56-88ad-b40b44dfbba8"
+    },
+    {
+        "id": "2b9cbf43-8f0a-4d92-9bac-9d7802707fa6",
+        "createdAt": "2022-05-11T15:16:02.126Z",
+        "updatedAt": "2022-05-11T15:16:02.126Z",
+        "name": "shadow/default",
+        "value": {
+            "a": 1,
+            "b": 0,
+            "g": 0,
+            "r": 0
+        },
+        "meta": {
+            "source": "localStyles"
+        },
+        "type": "color",
+        "originId": "1371:457",
+        "sourceId": "cea6b16f-63ca-4e14-9057-51b2a617e4e2",
+        "repositoryId": "92ce4045-6b42-4a56-88ad-b40b44dfbba8"
+    },
+    {
+        "id": "adf8f395-f4f4-4ea1-b873-6b74b4dcc957",
+        "createdAt": "2022-05-11T15:16:02.126Z",
+        "updatedAt": "2022-05-11T15:16:02.126Z",
+        "name": "shadow/hover",
+        "value": {
+            "a": 1,
+            "b": 5,
+            "g": 5,
+            "r": 5
+        },
+        "meta": {
+            "source": "localStyles"
+        },
+        "type": "color",
+        "originId": "1371:458",
+        "sourceId": "cea6b16f-63ca-4e14-9057-51b2a617e4e2",
+        "repositoryId": "92ce4045-6b42-4a56-88ad-b40b44dfbba8"
+    },
+    {
+        "id": "37837349-3999-48d3-8e10-545b411db8d0",
+        "createdAt": "2022-05-11T15:16:02.114Z",
+        "updatedAt": "2022-05-11T15:16:02.114Z",
+        "name": "text-color/default/default",
+        "value": {
+            "a": 1,
+            "b": 82,
+            "g": 79,
+            "r": 68
+        },
+        "meta": {
+            "source": "localStyles"
+        },
+        "type": "color",
+        "originId": "1361:735",
+        "sourceId": "cea6b16f-63ca-4e14-9057-51b2a617e4e2",
+        "repositoryId": "92ce4045-6b42-4a56-88ad-b40b44dfbba8"
+    },
+    {
+        "id": "4a064674-7779-4c76-a067-c5e5579dd8dc",
+        "createdAt": "2022-05-11T15:16:02.125Z",
+        "updatedAt": "2022-05-11T15:16:02.125Z",
+        "name": "text-color/default/interactive",
+        "value": {
+            "a": 1,
+            "b": 106,
+            "g": 86,
+            "r": 6
+        },
+        "meta": {
+            "source": "localStyles"
+        },
+        "type": "color",
+        "originId": "1361:736",
+        "sourceId": "cea6b16f-63ca-4e14-9057-51b2a617e4e2",
+        "repositoryId": "92ce4045-6b42-4a56-88ad-b40b44dfbba8"
+    },
+    {
+        "id": "7e48e1e6-abb8-4c79-83cc-60c968d6143b",
+        "createdAt": "2022-05-11T15:16:02.114Z",
+        "updatedAt": "2022-05-11T15:16:02.114Z",
+        "name": "text-color/default/interactive-active",
+        "value": {
+            "a": 1,
+            "b": 106,
+            "g": 86,
+            "r": 6
+        },
+        "meta": {
+            "source": "localStyles"
+        },
+        "type": "color",
+        "originId": "1361:738",
+        "sourceId": "cea6b16f-63ca-4e14-9057-51b2a617e4e2",
+        "repositoryId": "92ce4045-6b42-4a56-88ad-b40b44dfbba8"
+    },
+    {
+        "id": "e622bc63-275b-49af-a8fd-4d0dfe0e6cfb",
+        "createdAt": "2022-05-11T15:16:02.125Z",
+        "updatedAt": "2022-05-11T15:16:02.125Z",
+        "name": "text-color/default/interactive-hover",
+        "value": {
+            "a": 1,
+            "b": 163,
+            "g": 136,
+            "r": 26
+        },
+        "meta": {
+            "source": "localStyles"
+        },
+        "type": "color",
+        "originId": "1361:737",
+        "sourceId": "cea6b16f-63ca-4e14-9057-51b2a617e4e2",
+        "repositoryId": "92ce4045-6b42-4a56-88ad-b40b44dfbba8"
+    },
+    {
+        "id": "a1b54a7f-9b94-445a-adcc-55ad3a8730c7",
+        "createdAt": "2022-05-11T15:16:02.056Z",
+        "updatedAt": "2022-05-11T15:16:02.056Z",
+        "name": "text-color/default/interactive-visited",
+        "value": {
+            "a": 1,
+            "b": 163,
+            "g": 136,
+            "r": 26
+        },
+        "meta": {
+            "source": "localStyles"
+        },
+        "type": "color",
+        "originId": "1361:739",
+        "sourceId": "cea6b16f-63ca-4e14-9057-51b2a617e4e2",
+        "repositoryId": "92ce4045-6b42-4a56-88ad-b40b44dfbba8"
+    },
+    {
+        "id": "ea70cc2f-1b80-47fc-a50d-d817429c53e3",
+        "createdAt": "2022-05-11T15:16:01.995Z",
+        "updatedAt": "2022-05-11T15:16:01.995Z",
+        "name": "text-color/default-inverted/default",
+        "value": {
+            "a": 1,
+            "b": 255,
+            "g": 255,
+            "r": 255
+        },
+        "meta": {
+            "source": "localStyles"
+        },
+        "type": "color",
+        "originId": "1459:1006",
+        "sourceId": "cea6b16f-63ca-4e14-9057-51b2a617e4e2",
+        "repositoryId": "92ce4045-6b42-4a56-88ad-b40b44dfbba8"
+    },
+    {
+        "id": "bdefef09-c399-4bb2-8623-54cbd5d921a1",
+        "createdAt": "2022-05-11T15:16:01.969Z",
+        "updatedAt": "2022-05-11T15:16:01.969Z",
+        "name": "text-color/default-inverted/interactive",
+        "value": {
+            "a": 1,
+            "b": 0,
+            "g": 255,
+            "r": 236
+        },
+        "meta": {
+            "source": "localStyles"
+        },
+        "type": "color",
+        "originId": "1459:1007",
+        "sourceId": "cea6b16f-63ca-4e14-9057-51b2a617e4e2",
+        "repositoryId": "92ce4045-6b42-4a56-88ad-b40b44dfbba8"
+    },
+    {
+        "id": "f521c9d3-c3c9-4f33-9143-ce946d9897d0",
+        "createdAt": "2022-05-11T15:16:01.871Z",
+        "updatedAt": "2022-05-11T15:16:01.871Z",
+        "name": "text-color/default-inverted/interactive-active",
+        "value": {
+            "a": 1,
+            "b": 0,
+            "g": 255,
+            "r": 236
+        },
+        "meta": {
+            "source": "localStyles"
+        },
+        "type": "color",
+        "originId": "1459:1009",
+        "sourceId": "cea6b16f-63ca-4e14-9057-51b2a617e4e2",
+        "repositoryId": "92ce4045-6b42-4a56-88ad-b40b44dfbba8"
+    },
+    {
+        "id": "ae560be6-cc69-4b34-bcc7-b8984783b79b",
+        "createdAt": "2022-05-11T15:16:02.049Z",
+        "updatedAt": "2022-05-11T15:16:02.049Z",
+        "name": "text-color/default-inverted/interactive-hover",
+        "value": {
+            "a": 1,
+            "b": 195,
+            "g": 255,
+            "r": 251
+        },
+        "meta": {
+            "source": "localStyles"
+        },
+        "type": "color",
+        "originId": "1459:1008",
+        "sourceId": "cea6b16f-63ca-4e14-9057-51b2a617e4e2",
+        "repositoryId": "92ce4045-6b42-4a56-88ad-b40b44dfbba8"
+    },
+    {
+        "id": "cad4ec3b-8c33-4897-a578-c938fc68fe65",
+        "createdAt": "2022-05-11T15:16:02.048Z",
+        "updatedAt": "2022-05-11T15:16:02.048Z",
+        "name": "text-color/default-inverted/interactive-visited",
+        "value": {
+            "a": 1,
+            "b": 195,
+            "g": 255,
+            "r": 251
+        },
+        "meta": {
+            "source": "localStyles"
+        },
+        "type": "color",
+        "originId": "1459:1010",
+        "sourceId": "cea6b16f-63ca-4e14-9057-51b2a617e4e2",
+        "repositoryId": "92ce4045-6b42-4a56-88ad-b40b44dfbba8"
+    },
+    {
+        "id": "ba7e7fbe-dd15-49d1-b7d6-e2bd5a4a4557",
+        "createdAt": "2022-05-11T15:16:02.143Z",
+        "updatedAt": "2022-05-11T15:16:02.143Z",
+        "name": "text-color/interface/default",
+        "value": {
+            "a": 1,
+            "b": 143,
+            "g": 143,
+            "r": 140
+        },
+        "meta": {
+            "source": "localStyles"
+        },
+        "type": "color",
+        "originId": "1361:767",
+        "sourceId": "cea6b16f-63ca-4e14-9057-51b2a617e4e2",
+        "repositoryId": "92ce4045-6b42-4a56-88ad-b40b44dfbba8"
+    },
+    {
+        "id": "93c58e98-5f38-4be8-8e50-405bef6db2cf",
+        "createdAt": "2022-05-11T15:16:02.125Z",
+        "updatedAt": "2022-05-11T15:16:02.125Z",
+        "name": "text-color/interface/interactive",
+        "value": {
+            "a": 1,
+            "b": 106,
+            "g": 86,
+            "r": 6
+        },
+        "meta": {
+            "source": "localStyles"
+        },
+        "type": "color",
+        "originId": "1361:768",
+        "sourceId": "cea6b16f-63ca-4e14-9057-51b2a617e4e2",
+        "repositoryId": "92ce4045-6b42-4a56-88ad-b40b44dfbba8"
+    },
+    {
+        "id": "01be07eb-ee03-4c71-9c65-088ac48c2655",
+        "createdAt": "2022-05-11T15:16:01.889Z",
+        "updatedAt": "2022-05-11T15:16:01.889Z",
+        "name": "text-color/interface/interactive-active",
+        "value": {
+            "a": 1,
+            "b": 163,
+            "g": 136,
+            "r": 26
+        },
+        "meta": {
+            "source": "localStyles"
+        },
+        "type": "color",
+        "originId": "1459:1030",
+        "sourceId": "cea6b16f-63ca-4e14-9057-51b2a617e4e2",
+        "repositoryId": "92ce4045-6b42-4a56-88ad-b40b44dfbba8"
+    },
+    {
+        "id": "ff5cbedf-4d11-4061-9247-7d9528ec90e5",
+        "createdAt": "2022-05-11T15:16:01.963Z",
+        "updatedAt": "2022-05-11T15:16:01.963Z",
+        "name": "text-color/interface/interactive-hover",
+        "value": {
+            "a": 1,
+            "b": 163,
+            "g": 136,
+            "r": 26
+        },
+        "meta": {
+            "source": "localStyles"
+        },
+        "type": "color",
+        "originId": "1459:1029",
+        "sourceId": "cea6b16f-63ca-4e14-9057-51b2a617e4e2",
+        "repositoryId": "92ce4045-6b42-4a56-88ad-b40b44dfbba8"
+    },
+    {
+        "id": "12f6ba2f-32b4-4938-81f3-cbd406541d9d",
+        "createdAt": "2022-05-11T15:16:01.885Z",
+        "updatedAt": "2022-05-11T15:16:01.885Z",
+        "name": "text-color/interface/interactive-visited",
+        "value": {
+            "a": 1,
+            "b": 163,
+            "g": 136,
+            "r": 26
+        },
+        "meta": {
+            "source": "localStyles"
+        },
+        "type": "color",
+        "originId": "1459:1031",
+        "sourceId": "cea6b16f-63ca-4e14-9057-51b2a617e4e2",
+        "repositoryId": "92ce4045-6b42-4a56-88ad-b40b44dfbba8"
+    },
+    {
+        "id": "a8de4fab-c079-438c-9e84-c57e969bee01",
+        "createdAt": "2022-05-11T15:16:02.125Z",
+        "updatedAt": "2022-05-11T15:16:02.125Z",
+        "name": "text-color/interface-inverted/default",
+        "value": {
+            "a": 1,
+            "b": 255,
+            "g": 255,
+            "r": 255
+        },
+        "meta": {
+            "source": "localStyles"
+        },
+        "type": "color",
+        "originId": "1459:1083",
+        "sourceId": "cea6b16f-63ca-4e14-9057-51b2a617e4e2",
+        "repositoryId": "92ce4045-6b42-4a56-88ad-b40b44dfbba8"
+    },
+    {
+        "id": "1bbdc175-0442-42ed-b038-f0f82ebf8d6f",
+        "createdAt": "2022-05-11T15:16:02.166Z",
+        "updatedAt": "2022-05-11T15:16:02.166Z",
+        "name": "text-color/interface-inverted/interactive",
+        "value": {
+            "a": 1,
+            "b": 0,
+            "g": 255,
+            "r": 236
+        },
+        "meta": {
+            "source": "localStyles"
+        },
+        "type": "color",
+        "originId": "1459:1084",
+        "sourceId": "cea6b16f-63ca-4e14-9057-51b2a617e4e2",
+        "repositoryId": "92ce4045-6b42-4a56-88ad-b40b44dfbba8"
+    },
+    {
+        "id": "8468c4c9-d82b-4c17-8472-d380953c6983",
+        "createdAt": "2022-05-11T15:16:02.167Z",
+        "updatedAt": "2022-05-11T15:16:02.167Z",
+        "name": "text-color/interface-inverted/interactive-active",
+        "value": {
+            "a": 1,
+            "b": 195,
+            "g": 255,
+            "r": 251
+        },
+        "meta": {
+            "source": "localStyles"
+        },
+        "type": "color",
+        "originId": "1459:1086",
+        "sourceId": "cea6b16f-63ca-4e14-9057-51b2a617e4e2",
+        "repositoryId": "92ce4045-6b42-4a56-88ad-b40b44dfbba8"
+    },
+    {
+        "id": "09270fd8-28ca-43a5-9d87-06a72fe8675d",
+        "createdAt": "2022-05-11T15:16:02.126Z",
+        "updatedAt": "2022-05-11T15:16:02.126Z",
+        "name": "text-color/interface-inverted/interactive-hover",
+        "value": {
+            "a": 1,
+            "b": 195,
+            "g": 255,
+            "r": 251
+        },
+        "meta": {
+            "source": "localStyles"
+        },
+        "type": "color",
+        "originId": "1459:1085",
+        "sourceId": "cea6b16f-63ca-4e14-9057-51b2a617e4e2",
+        "repositoryId": "92ce4045-6b42-4a56-88ad-b40b44dfbba8"
+    },
+    {
+        "id": "91cbc620-5f90-4aa3-b0b9-ef21da0b4534",
+        "createdAt": "2022-05-11T15:16:02.160Z",
+        "updatedAt": "2022-05-11T15:16:02.160Z",
+        "name": "text-color/interface-inverted/interactive-visited",
+        "value": {
+            "a": 1,
+            "b": 195,
+            "g": 255,
+            "r": 251
+        },
+        "meta": {
+            "source": "localStyles"
+        },
+        "type": "color",
+        "originId": "1459:1087",
+        "sourceId": "cea6b16f-63ca-4e14-9057-51b2a617e4e2",
+        "repositoryId": "92ce4045-6b42-4a56-88ad-b40b44dfbba8"
+    },
+    {
+        "id": "bc3e50ad-18ec-44f8-99e0-e1a7c3cc66ee",
+        "createdAt": "2022-05-11T15:16:02.085Z",
+        "updatedAt": "2022-05-11T15:16:02.085Z",
+        "name": "text-color/primary/default",
+        "value": {
+            "a": 1,
+            "b": 106,
+            "g": 86,
+            "r": 6
+        },
+        "meta": {
+            "source": "localStyles"
+        },
+        "type": "color",
+        "originId": "1361:333",
+        "sourceId": "cea6b16f-63ca-4e14-9057-51b2a617e4e2",
+        "repositoryId": "92ce4045-6b42-4a56-88ad-b40b44dfbba8"
+    },
+    {
+        "id": "3948a2ab-f2d3-443b-95c9-bf566b0f2872",
+        "createdAt": "2022-05-11T15:16:02.017Z",
+        "updatedAt": "2022-05-11T15:16:02.017Z",
+        "name": "text-color/primary/interactive",
+        "value": {
+            "a": 1,
+            "b": 106,
+            "g": 86,
+            "r": 6
+        },
+        "meta": {
+            "source": "localStyles"
+        },
+        "type": "color",
+        "originId": "1360:305",
+        "sourceId": "cea6b16f-63ca-4e14-9057-51b2a617e4e2",
+        "repositoryId": "92ce4045-6b42-4a56-88ad-b40b44dfbba8"
+    },
+    {
+        "id": "a3bf46be-ecd1-4171-bc56-641949ed5753",
+        "createdAt": "2022-05-11T15:16:02.085Z",
+        "updatedAt": "2022-05-11T15:16:02.085Z",
+        "name": "text-color/primary/interactive-active",
+        "value": {
+            "a": 1,
+            "b": 163,
+            "g": 136,
+            "r": 26
+        },
+        "meta": {
+            "source": "localStyles"
+        },
+        "type": "color",
+        "originId": "1361:401",
+        "sourceId": "cea6b16f-63ca-4e14-9057-51b2a617e4e2",
+        "repositoryId": "92ce4045-6b42-4a56-88ad-b40b44dfbba8"
+    },
+    {
+        "id": "e331864c-7879-41cf-979d-b5e9fc45c3ef",
+        "createdAt": "2022-05-11T15:16:02.085Z",
+        "updatedAt": "2022-05-11T15:16:02.085Z",
+        "name": "text-color/primary/interactive-hover",
+        "value": {
+            "a": 1,
+            "b": 163,
+            "g": 136,
+            "r": 26
+        },
+        "meta": {
+            "source": "localStyles"
+        },
+        "type": "color",
+        "originId": "1361:386",
+        "sourceId": "cea6b16f-63ca-4e14-9057-51b2a617e4e2",
+        "repositoryId": "92ce4045-6b42-4a56-88ad-b40b44dfbba8"
+    },
+    {
+        "id": "aa10c2f0-c8ba-4eee-b260-48dfa51b469a",
+        "createdAt": "2022-05-11T15:16:02.125Z",
+        "updatedAt": "2022-05-11T15:16:02.125Z",
+        "name": "text-color/primary/interactive-visited",
+        "value": {
+            "a": 1,
+            "b": 163,
+            "g": 136,
+            "r": 26
+        },
+        "meta": {
+            "source": "localStyles"
+        },
+        "type": "color",
+        "originId": "1361:413",
+        "sourceId": "cea6b16f-63ca-4e14-9057-51b2a617e4e2",
+        "repositoryId": "92ce4045-6b42-4a56-88ad-b40b44dfbba8"
+    },
+    {
+        "id": "102ae6f2-9c38-42d7-8f34-d31792f56581",
+        "createdAt": "2022-05-11T15:16:02.052Z",
+        "updatedAt": "2022-05-11T15:16:02.052Z",
+        "name": "text-color/primary-inverted/default",
+        "value": {
+            "a": 1,
+            "b": 0,
+            "g": 255,
+            "r": 236
+        },
+        "meta": {
+            "source": "localStyles"
+        },
+        "type": "color",
+        "originId": "1361:329",
+        "sourceId": "cea6b16f-63ca-4e14-9057-51b2a617e4e2",
+        "repositoryId": "92ce4045-6b42-4a56-88ad-b40b44dfbba8"
+    },
+    {
+        "id": "bd50bad4-a911-4b86-8c6b-9499c8cc426d",
+        "createdAt": "2022-05-11T15:16:01.926Z",
+        "updatedAt": "2022-05-11T15:16:01.926Z",
+        "name": "text-color/primary-inverted/hover",
+        "value": {
+            "a": 1,
+            "b": 195,
+            "g": 255,
+            "r": 251
+        },
+        "meta": {
+            "source": "localStyles"
+        },
+        "type": "color",
+        "originId": "1361:387",
+        "sourceId": "cea6b16f-63ca-4e14-9057-51b2a617e4e2",
+        "repositoryId": "92ce4045-6b42-4a56-88ad-b40b44dfbba8"
+    },
+    {
+        "id": "ba69ce97-0a04-43c1-9762-6fe5b107239a",
+        "createdAt": "2022-05-11T15:16:02.093Z",
+        "updatedAt": "2022-05-11T15:16:02.093Z",
+        "name": "text-color/primary-inverted/interactive",
+        "value": {
+            "a": 1,
+            "b": 0,
+            "g": 255,
+            "r": 236
+        },
+        "meta": {
+            "source": "localStyles"
+        },
+        "type": "color",
+        "originId": "1361:334",
+        "sourceId": "cea6b16f-63ca-4e14-9057-51b2a617e4e2",
+        "repositoryId": "92ce4045-6b42-4a56-88ad-b40b44dfbba8"
+    },
+    {
+        "id": "7de082bf-2559-4659-951b-c28cfe4c0327",
+        "createdAt": "2022-05-11T15:16:02.093Z",
+        "updatedAt": "2022-05-11T15:16:02.093Z",
+        "name": "text-color/primary-inverted/interactive-active",
+        "value": {
+            "a": 1,
+            "b": 195,
+            "g": 255,
+            "r": 251
+        },
+        "meta": {
+            "source": "localStyles"
+        },
+        "type": "color",
+        "originId": "1361:402",
+        "sourceId": "cea6b16f-63ca-4e14-9057-51b2a617e4e2",
+        "repositoryId": "92ce4045-6b42-4a56-88ad-b40b44dfbba8"
+    },
+    {
+        "id": "80a0a62b-b0fd-45ba-a380-5791fb70385e",
+        "createdAt": "2022-05-11T15:16:02.093Z",
+        "updatedAt": "2022-05-11T15:16:02.093Z",
+        "name": "text-color/primary-inverted/interactive-visited",
+        "value": {
+            "a": 1,
+            "b": 195,
+            "g": 255,
+            "r": 251
+        },
+        "meta": {
+            "source": "localStyles"
+        },
+        "type": "color",
+        "originId": "1361:414",
+        "sourceId": "cea6b16f-63ca-4e14-9057-51b2a617e4e2",
+        "repositoryId": "92ce4045-6b42-4a56-88ad-b40b44dfbba8"
+    }
+]
