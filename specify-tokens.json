@@ -513,6 +513,44 @@
         "repositoryId": "92ce4045-6b42-4a56-88ad-b40b44dfbba8"
     },
     {
+        "id": "ac3ee701-9d9e-4d75-ad72-9868b4092986",
+        "createdAt": "2022-05-11T15:40:21.037Z",
+        "updatedAt": "2022-05-11T15:40:21.037Z",
+        "name": "duration-collapse",
+        "value": {
+            "unit": "ms",
+            "duration": 300
+        },
+        "meta": {
+            "source": "frames",
+            "sourceFile": "https://www.figma.com/file/rMQYTZWdTSIjCE6P0EeEXC",
+            "originFrameName": "Semantic Durations"
+        },
+        "type": "duration",
+        "originId": "1396:422",
+        "sourceId": "8930a7f0-25c5-47c3-9e7f-6c6545a130d7",
+        "repositoryId": "92ce4045-6b42-4a56-88ad-b40b44dfbba8"
+    },
+    {
+        "id": "b05f8ebe-a5de-45f4-9b04-5e3f371ad015",
+        "createdAt": "2022-05-11T15:40:21.047Z",
+        "updatedAt": "2022-05-11T15:40:21.047Z",
+        "name": "duration-fade",
+        "value": {
+            "unit": "ms",
+            "duration": 200
+        },
+        "meta": {
+            "source": "frames",
+            "sourceFile": "https://www.figma.com/file/rMQYTZWdTSIjCE6P0EeEXC",
+            "originFrameName": "Semantic Durations"
+        },
+        "type": "duration",
+        "originId": "1396:424",
+        "sourceId": "8930a7f0-25c5-47c3-9e7f-6c6545a130d7",
+        "repositoryId": "92ce4045-6b42-4a56-88ad-b40b44dfbba8"
+    },
+    {
         "id": "d3a579df-cd80-48d2-b9c1-a5f8ce1dc369",
         "createdAt": "2022-05-11T15:39:01.644Z",
         "updatedAt": "2022-05-11T15:39:01.644Z",
@@ -529,6 +567,25 @@
         "type": "duration",
         "originId": "14:561",
         "sourceId": "98f467f8-d35f-4989-abea-2c5eb2609d8c",
+        "repositoryId": "92ce4045-6b42-4a56-88ad-b40b44dfbba8"
+    },
+    {
+        "id": "c138ba0c-9516-4f40-a865-b0710e2d69c0",
+        "createdAt": "2022-05-11T15:40:21.046Z",
+        "updatedAt": "2022-05-11T15:40:21.046Z",
+        "name": "duration-hover",
+        "value": {
+            "unit": "ms",
+            "duration": 100
+        },
+        "meta": {
+            "source": "frames",
+            "sourceFile": "https://www.figma.com/file/rMQYTZWdTSIjCE6P0EeEXC",
+            "originFrameName": "Semantic Durations"
+        },
+        "type": "duration",
+        "originId": "1396:423",
+        "sourceId": "8930a7f0-25c5-47c3-9e7f-6c6545a130d7",
         "repositoryId": "92ce4045-6b42-4a56-88ad-b40b44dfbba8"
     },
     {
