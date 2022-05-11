@@ -1,0 +1,64 @@
+{
+  "color": {
+    "primary": "#aa1482",
+    "background": "#fff",
+    "foreground": "#4E5356",
+    "link": "#0000EE"
+  },
+  "font": {
+    "display": {
+      "family": "brando-sans",
+      "font-size": 16,
+      "line-height": 1.5,
+      "scale-ratio": 1.35,
+      "bp-factor": {
+        "phone": 1.167,
+        "tablet": 1.375
+      }
+    },
+    "copy": {
+      "family": "brando-sans",
+      "font-size": 14,
+      "line-height": 1.75,
+      "scale-ratio": 1.225,
+      "bp-factor": {
+        "tablet": 1.125
+      }
+    },
+    "ui": {
+      "family": "brando-sans",
+      "font-size": 16,
+      "line-height": 1.75,
+      "scale-ratio": 1.225,
+      "bp-factor": {
+        "tablet": 1.125
+      }
+    },
+    "mono": {
+      "family": "brando-sans",
+      "font-size": 16,
+      "line-height": 1.75,
+      "scale-ratio": 1.225,
+      "bp-factor": {
+        "tablet": 1.125
+      }
+    }
+  },
+  "font-weight": {
+    "light": 300,
+    "regular": 400,
+    "semi-bold": 600,
+    "bold": 700
+  },
+  "spacing": {
+    "base": 8,
+    "scale-ratio": 1.414,
+    "bp-ratio": 1.25
+  },
+  "breakpoints": {
+    "phone": 576,
+    "tablet": 768,
+    "laptop": 992,
+    "desktop": 1200
+  }
+}

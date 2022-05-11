@@ -1,0 +1,209 @@
+{
+  "ks": {
+    "spacing": {
+      "l": {
+        "_": {
+          "value": "{ks.spacing.l.base}",
+          "token": {
+            "category": "Spacing",
+            "presenter": "Spacing"
+          }
+        },
+        "base": {
+          "value": "1.25",
+          "attributes": {
+            "category": "size"
+          }
+        },
+        "bp-factor": {
+          "phone": {
+            "value": "1.25"
+          },
+          "tablet": {
+            "value": "1.5625"
+          },
+          "laptop": {
+            "value": "1.9531"
+          },
+          "desktop": {
+            "value": "2.4414"
+          }
+        }
+      },
+      "m": {
+        "_": {
+          "value": "{ks.spacing.m.base}",
+          "token": {
+            "category": "Spacing",
+            "presenter": "Spacing"
+          }
+        },
+        "base": {
+          "value": "0.625",
+          "attributes": {
+            "category": "size"
+          }
+        },
+        "bp-factor": {
+          "phone": {
+            "value": "1.25"
+          },
+          "tablet": {
+            "value": "1.5625"
+          },
+          "laptop": {
+            "value": "1.9531"
+          },
+          "desktop": {
+            "value": "2.4414"
+          }
+        }
+      },
+      "s": {
+        "_": {
+          "value": "{ks.spacing.s.base}",
+          "token": {
+            "category": "Spacing",
+            "presenter": "Spacing"
+          }
+        },
+        "base": {
+          "value": "0.375",
+          "attributes": {
+            "category": "size"
+          }
+        },
+        "bp-factor": {
+          "phone": {
+            "value": "1.25"
+          },
+          "tablet": {
+            "value": "1.5625"
+          },
+          "laptop": {
+            "value": "1.9531"
+          },
+          "desktop": {
+            "value": "2.4414"
+          }
+        }
+      },
+      "xl": {
+        "_": {
+          "value": "{ks.spacing.xl.base}",
+          "token": {
+            "category": "Spacing",
+            "presenter": "Spacing"
+          }
+        },
+        "base": {
+          "value": "2.5",
+          "attributes": {
+            "category": "size"
+          }
+        },
+        "bp-factor": {
+          "phone": {
+            "value": "1.25"
+          },
+          "tablet": {
+            "value": "1.5625"
+          },
+          "laptop": {
+            "value": "1.9531"
+          },
+          "desktop": {
+            "value": "2.4414"
+          }
+        }
+      },
+      "xs": {
+        "_": {
+          "value": "{ks.spacing.xs.base}",
+          "token": {
+            "category": "Spacing",
+            "presenter": "Spacing"
+          }
+        },
+        "base": {
+          "value": "0.25",
+          "attributes": {
+            "category": "size"
+          }
+        },
+        "bp-factor": {
+          "phone": {
+            "value": "1.25"
+          },
+          "tablet": {
+            "value": "1.5625"
+          },
+          "laptop": {
+            "value": "1.9531"
+          },
+          "desktop": {
+            "value": "2.4414"
+          }
+        }
+      },
+      "xxl": {
+        "_": {
+          "value": "{ks.spacing.xxl.base}",
+          "token": {
+            "category": "Spacing",
+            "presenter": "Spacing"
+          }
+        },
+        "base": {
+          "value": "3.75",
+          "attributes": {
+            "category": "size"
+          }
+        },
+        "bp-factor": {
+          "phone": {
+            "value": "1.25"
+          },
+          "tablet": {
+            "value": "1.5625"
+          },
+          "laptop": {
+            "value": "1.9531"
+          },
+          "desktop": {
+            "value": "2.4414"
+          }
+        }
+      },
+      "xxs": {
+        "_": {
+          "value": "{ks.spacing.xxs.base}",
+          "token": {
+            "category": "Spacing",
+            "presenter": "Spacing"
+          }
+        },
+        "base": {
+          "value": "0.125",
+          "attributes": {
+            "category": "size"
+          }
+        },
+        "bp-factor": {
+          "phone": {
+            "value": "1.25"
+          },
+          "tablet": {
+            "value": "1.5625"
+          },
+          "laptop": {
+            "value": "1.9531"
+          },
+          "desktop": {
+            "value": "2.4414"
+          }
+        }
+      }
+    }
+  }
+}

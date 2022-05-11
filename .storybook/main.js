@@ -1,55 +1,22 @@
-const path = require('path');
+const path = require("path");
 
 module.exports = {
-  "stories": [
-    "../src/**/*.stories.mdx",
-    "../src/**/*.stories.@(js|jsx|ts|tsx)"
+  stories: [
+    "../stories/**/*.stories.mdx",
+    "../stories/**/*.stories.@(js|jsx|ts|tsx)",
+    "../node_modules/@kickstartds/*/lib/*/*.stories.mdx",
+    "../node_modules/@kickstartds/*/lib/*/*.stories.@(js|jsx|ts|tsx)",
   ],
-  "addons": [
-    "@storybook/addon-links",
-    "@storybook/addon-essentials"
-  ],
-  "framework": "@storybook/vue3",
+  addons: ["@storybook/addon-essentials"],
+  framework: "@storybook/react",
+  staticDirs: ["../static"],
   webpackFinal: async (config, { configType }) => {
-    // Svg needs a speicic rule
-    config.module.rules = config.module.rules.filter(el => !/svg/.test(el.test));
-    // Put back the default rule without svg
-    config.module.rules.push({
-      test: /\.(ico|jpg|jpeg|png|apng|gif|eot|otf|webp|ttf|woff|woff2|cur|ani|pdf)(\?.*)?$/,
-      loader: 'file-loader',
-      options: { esModule: false, name: 'static/media/[path][name].[ext]' },
-    });
-
     config.module.rules.push({
       test: /\.scss$/,
-      use: [
-        'style-loader',
-        'css-loader',
-        'sass-loader',
-        {
-          loader: 'style-resources-loader',
-          options: {
-            patterns: [
-              path.resolve(__dirname, '../src/assets/style/_mixins.scss'),
-              path.resolve(__dirname, '../src/assets/style/_fonts.scss'),
-              path.resolve(__dirname, '../src/assets/style/_text-styles.scss'),
-              path.resolve(__dirname, '../src/assets/style/style.scss'),
-            ],
-          },
-        },
-      ],
-      include: path.resolve(__dirname, '../'),
+      use: ["style-loader", "css-loader", "sass-loader"],
+      include: path.resolve(__dirname, '../src'),
     });
 
-    config.module.rules.push({
-      test: /\.svg$/,
-      use: ['html-loader'],
-      include: path.resolve(__dirname, '../'),
-    });
-
-    config.resolve.alias['@'] = path.resolve(__dirname, '../src');
-
-    // Return the altered config
     return config;
-  }
-}
+  },
+};

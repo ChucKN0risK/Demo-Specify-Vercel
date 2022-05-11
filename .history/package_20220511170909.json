@@ -7,7 +7,7 @@
   "license": "MIT",
   "private": true,
   "scripts": {
-    "start": "yarn specify-build-tokens && yarn build-tokens && start-storybook -p 6006",
+    "start": "yarn specify-build-tokens && build-tokens && start-storybook -p 6006",
     "build-storybook": "yarn build-tokens && build-storybook",
     "chromatic": "yarn build-scripts && yarn specify-build-tokens && chromatic --exit-zero-on-changes --exit-once-uploaded",
     "build-scripts": "tsc && node dist/scripts/specifyToKickstartds.js",
@@ -16,8 +16,7 @@
     "specify-build-tokens": "style-dictionary build",
     "init-tokens": "node scripts/init-tokens.js",
     "build-tokens": "node scripts/build-tokens.js",
-    "watch-tokens": "chokidar \"tokens/*.json\" -c \"yarn build-tokens\"",
-    "build-tokens-and-deploy-storybook": "yarn specify-build-tokens && yarn build-storybook"
+    "watch-tokens": "chokidar \"tokens/*.json\" -c \"yarn build-tokens\""
   },
   "dependencies": {
     "@bedrock-layout/primitives": "^1.4.3",

@@ -1,0 +1,329 @@
+{
+  "ks": {
+    "background-color": {
+      "accent": {
+        "_": {
+          "value": {
+            "r": 170,
+            "g": 20,
+            "b": 130,
+            "a": 0.1
+          },
+          "attributes": {
+            "category": "color"
+          },
+          "token": {
+            "category": "Colors: Background Accent",
+            "presenter": "Color"
+          }
+        }
+      },
+      "clear": {
+        "interactive": {
+          "_": {
+            "value": {
+              "r": 255,
+              "g": 255,
+              "b": 255,
+              "a": 0
+            },
+            "attributes": {
+              "category": "color"
+            },
+            "token": {
+              "category": "Colors: Background Clear",
+              "presenter": "Color"
+            }
+          },
+          "hover": {
+            "value": "{ks.color.primary.alpha.2}",
+            "attributes": {
+              "category": "color"
+            },
+            "token": {
+              "category": "Colors: Background Clear",
+              "presenter": "Color"
+            }
+          },
+          "active": {
+            "value": "{ks.color.primary.alpha.3}",
+            "attributes": {
+              "category": "color"
+            },
+            "token": {
+              "category": "Colors: Background Clear",
+              "presenter": "Color"
+            }
+          }
+        },
+        "inverted": {
+          "interactive": {
+            "_": {
+              "value": {
+                "r": 255,
+                "g": 255,
+                "b": 255,
+                "a": 0
+              },
+              "attributes": {
+                "category": "color"
+              },
+              "token": {
+                "category": "Colors: Background Clear",
+                "presenter": "Color"
+              }
+            },
+            "hover": {
+              "value": "{ks.color.primary.alpha.3}",
+              "attributes": {
+                "category": "color"
+              },
+              "token": {
+                "category": "Colors: Background Clear",
+                "presenter": "Color"
+              }
+            },
+            "active": {
+              "value": "{ks.color.primary.alpha.4}",
+              "attributes": {
+                "category": "color"
+              },
+              "token": {
+                "category": "Colors: Background Clear",
+                "presenter": "Color"
+              }
+            }
+          }
+        }
+      },
+      "default": {
+        "_": {
+          "value": {
+            "r": 255,
+            "g": 255,
+            "b": 255,
+            "a": 1
+          },
+          "attributes": {
+            "category": "color"
+          },
+          "token": {
+            "category": "Colors: Background Default",
+            "presenter": "Color"
+          }
+        },
+        "inverted": {
+          "value": {
+            "r": 78,
+            "g": 83,
+            "b": 86,
+            "a": 0.7
+          },
+          "attributes": {
+            "category": "color"
+          },
+          "token": {
+            "category": "Colors: Background Default",
+            "presenter": "Color"
+          }
+        }
+      },
+      "interface": {
+        "_": {
+          "value": {
+            "r": 78,
+            "g": 83,
+            "b": 86,
+            "a": 0.1
+          },
+          "attributes": {
+            "category": "color"
+          },
+          "token": {
+            "category": "Colors: Background Interface",
+            "presenter": "Color"
+          }
+        },
+        "interactive": {
+          "_": {
+            "value": {
+              "r": 78,
+              "g": 83,
+              "b": 86,
+              "a": 0
+            },
+            "attributes": {
+              "category": "color"
+            },
+            "token": {
+              "category": "Colors: Background Interface",
+              "presenter": "Color"
+            }
+          },
+          "disabled": {
+            "value": {
+              "r": 78,
+              "g": 83,
+              "b": 86,
+              "a": 0.1
+            },
+            "attributes": {
+              "category": "color"
+            },
+            "token": {
+              "category": "Colors: Background Interface",
+              "presenter": "Color"
+            }
+          }
+        }
+      },
+      "primary": {
+        "interactive": {
+          "_": {
+            "value": {
+              "r": 170,
+              "g": 20,
+              "b": 130,
+              "a": 1
+            },
+            "attributes": {
+              "category": "color"
+            },
+            "token": {
+              "category": "Colors: Background Primary",
+              "presenter": "Color"
+            }
+          },
+          "hover": {
+            "value": {
+              "r": 187,
+              "g": 67,
+              "b": 155,
+              "a": 1
+            },
+            "attributes": {
+              "category": "color"
+            },
+            "token": {
+              "category": "Colors: Background Primary",
+              "presenter": "Color"
+            }
+          },
+          "active": {
+            "value": {
+              "r": 196,
+              "g": 91,
+              "b": 168,
+              "a": 1
+            },
+            "attributes": {
+              "category": "color"
+            },
+            "token": {
+              "category": "Colors: Background Primary",
+              "presenter": "Color"
+            }
+          }
+        },
+        "inverted": {
+          "tbd": {
+            "_": {
+              "value": {
+                "r": 255,
+                "g": 255,
+                "b": 255,
+                "a": 0.8
+              },
+              "attributes": {
+                "category": "color"
+              },
+              "token": {
+                "category": "Colors: Background Primary",
+                "presenter": "Color"
+              }
+            }
+          },
+          "interactive": {
+            "_": {
+              "value": {
+                "r": 255,
+                "g": 255,
+                "b": 255,
+                "a": 1
+              },
+              "attributes": {
+                "category": "color"
+              },
+              "token": {
+                "category": "Colors: Background Primary",
+                "presenter": "Color"
+              }
+            },
+            "hover": {
+              "value": {
+                "r": 247,
+                "g": 232,
+                "b": 243,
+                "a": 1
+              },
+              "attributes": {
+                "category": "color"
+              },
+              "token": {
+                "category": "Colors: Background Primary",
+                "presenter": "Color"
+              }
+            },
+            "active": {
+              "value": {
+                "r": 238,
+                "g": 208,
+                "b": 230,
+                "a": 1
+              },
+              "attributes": {
+                "category": "color"
+              },
+              "token": {
+                "category": "Colors: Background Primary",
+                "presenter": "Color"
+              }
+            }
+          }
+        },
+        "tbd": {
+          "_": {
+            "value": {
+              "r": 170,
+              "g": 20,
+              "b": 130,
+              "a": 0.8
+            },
+            "attributes": {
+              "category": "color"
+            },
+            "token": {
+              "category": "Colors: Background Primary",
+              "presenter": "Color"
+            }
+          },
+          "interactive": {
+            "value": {
+              "r": 255,
+              "g": 255,
+              "b": 255,
+              "a": 1
+            },
+            "attributes": {
+              "category": "color"
+            },
+            "token": {
+              "category": "Colors: Background Primary",
+              "presenter": "Color"
+            }
+          }
+        }
+      }
+    }
+  }
+}

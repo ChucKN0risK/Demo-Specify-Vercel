@@ -16,8 +16,7 @@
     "specify-build-tokens": "style-dictionary build",
     "init-tokens": "node scripts/init-tokens.js",
     "build-tokens": "node scripts/build-tokens.js",
-    "watch-tokens": "chokidar \"tokens/*.json\" -c \"yarn build-tokens\"",
-    "build-tokens-and-deploy-storybook": "yarn specify-build-tokens && yarn build-storybook"
+    "watch-tokens": "chokidar \"tokens/*.json\" -c \"yarn build-tokens\""
   },
   "dependencies": {
     "@bedrock-layout/primitives": "^1.4.3",

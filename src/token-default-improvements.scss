@@ -1,0 +1,32 @@
+:root {
+  .c-collapsible-box {
+    &__header__text {
+      color: var(--c-collapsible-box_header--color);
+      --c-collapsible-box_header--color: var(--g-topic--color);
+    }
+  }
+
+  .c-form-field,
+  .c-form-check {
+    &__label {
+      color: var(--c-form-field-label--color);
+      --c-form-field-label--color: var(--ks-text-color-interface);
+    }
+  }
+
+  .c-content-box {
+    --c-content-box_topic--color: var(--g-topic--color);
+  }
+
+  .c-button {
+    &--clear,
+    &--clear-inverted {
+      --c-button--border-color: transparent;
+    }
+    &--solid,
+    &--solid-inverted {
+      --c-button--border-color: var(--c-button--background-color);
+      --c-button--border-color-hover: var(--c-button--background-color-hover);
+    }
+  }
+}
