@@ -819,13 +819,13 @@
     {
         "id": "4f2351bb-539c-45a4-b290-06fbdbb142af",
         "createdAt": "2022-05-11T15:16:02.148Z",
-        "updatedAt": "2022-05-11T15:32:10.212Z",
+        "updatedAt": "2022-05-11T15:42:59.575Z",
         "name": "scale/primary/default",
         "value": {
             "a": 1,
-            "b": 7,
-            "g": 7,
-            "r": 237
+            "b": 241,
+            "g": 10,
+            "r": 84
         },
         "meta": {
             "source": "localStyles"
