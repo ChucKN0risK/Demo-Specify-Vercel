@@ -1,6 +1,5 @@
 {
   "repository": "@specifyapp/Kickstart-DS-Demo",
-  "head": "specify",
   "rules": [
     {
       "name": "Design Tokens",
