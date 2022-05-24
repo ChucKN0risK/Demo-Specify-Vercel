@@ -2,6 +2,7 @@ import { Columns, Column, Split, Stack } from "@bedrock-layout/primitives";
 import "../../src/token-default-improvements.scss";
 import "../../src/individualisation.scss";
 import { InlineSvgPictureProvider } from "../../src/inline-svg-picture/InlineSvgPicture";
+import { SwitchButtonProvider } from "../../src/button/SwitchButton";
 import { Blimp } from "../../src/images/Blimp";
 import { Building } from "../../src/images/Building";
 import { Alien } from "../../src/images/Alien";
@@ -34,65 +35,69 @@ export default {
 const Page = () => (
   <>
     <Section width="full" spaceAfter="none" >
-      <InlineSvgPictureProvider>
-        <Storytelling
-          backgroundImage="bg.svg"
-          full
-          box={{
-            link: {
-              label: "Lift up with us",
-              variant: "solid",
-            },
-            headline: {
-              content: "Token are our dream come true",
-              subheadline: "You'll ultimately fall in love with us too",
-              level: "h1",
-              styleAs: "h1",
-              spaceAfter: "small",
-            },
-            text: "One unique source of love where your design decisions are documented and easily distributed though the platform you choose",
-            hAlign: "center",
-            vAlign: "left",
-          }}
-          image={{
-            source: Blimp,
-            order: {
-              desktopImageLast: false,
-            },
-          }}
-        />
-      </InlineSvgPictureProvider>
+      <SwitchButtonProvider>
+        <InlineSvgPictureProvider>
+          <Storytelling
+            backgroundImage="bg.svg"
+            full
+            box={{
+              link: {
+                label: "Lift up with us",
+                variant: "solid",
+              },
+              headline: {
+                content: "Design Token are our dream come true 🪙",
+                subheadline: "You'll ultimately fall in love with them,  too",
+                level: "h1",
+                styleAs: "h1",
+                spaceAfter: "small",
+              },
+              text: "One unique source of love, where your design decisions are documented and easily distributed through the platform you choose",
+              hAlign: "center",
+              vAlign: "left",
+            }}
+            image={{
+              source: Blimp,
+              order: {
+                desktopImageLast: false,
+              },
+            }}
+          />
+        </InlineSvgPictureProvider>
+      </SwitchButtonProvider>
     </Section>
 
     <Section width="full" spaceBefore="none">
-      <InlineSvgPictureProvider>
-        <Storytelling
-          backgroundImage="bg_2.svg"
-          full
-          box={{
-            link: {
-              label: "Turn off the lights!",
-              variant: "solid",
-            },
-            headline: {
-              content: "From morn to midnight",
-              subheadline: "From dusk to dawn",
-              level: "h1",
-              styleAs: "h1",
-              spaceAfter: "small",
-            },
-            text: "This title goes further than the silent expressionist film directed by Karlheinz Martin. Synchronizing tokens is easier  than any drama and comes in less than five acts.",
-            hAlign: "right",
-            vAlign: "center",
-          }}
-          image={{
-            source: Building,
-            order: {
-              desktopImageLast: true,
-            },
-          }}
-        />
-      </InlineSvgPictureProvider>
+      <SwitchButtonProvider>
+        <InlineSvgPictureProvider>
+          <Storytelling
+            backgroundImage="bg_2.svg"
+            full
+            box={{
+              link: {
+                label: "Turn off the lights!",
+                variant: "solid",
+              },
+              headline: {
+                content: "From morning to midnight",
+                subheadline: "From dusk to dawn",
+                level: "h1",
+                styleAs: "h1",
+                spaceAfter: "small",
+              },
+              text: "This title goes further than the silent expressionist film directed by Karlheinz Martin. Synchronizing tokens is easier  than any drama and comes in less than five acts.",
+              hAlign: "right",
+              vAlign: "center",
+            }}
+            image={{
+              source: Building,
+              order: {
+                desktopImageLast: true,
+              },
+            }}
+          />
+        </InlineSvgPictureProvider>
+      </SwitchButtonProvider>
     </Section>
     <Section
       ks-inverted="true"
