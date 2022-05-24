@@ -51,7 +51,7 @@
     "chromatic": "^6.5.3",
     "concurrently": "^7.2.0",
     "css-loader": "^5",
-    "kickstartds": "^0.2.20",
+    "kickstartds": "^0.2.21",
     "sass": "^1.49.9",
     "sass-loader": "^10",
     "storybook-design-token": "^2.2.0",
