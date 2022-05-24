@@ -1,24 +1,26 @@
 {
   "color": {
-    "primary": "#aa1482",
+    "primary": "#333",
+    "primary-inverted": "#fff",
     "background": "#fff",
-    "foreground": "#4E5356",
-    "link": "#0000EE"
+    "foreground": "#000",
+    "link": "#1c7ed6",
+    "link-inverted": "#a5d8ff"
   },
   "font": {
     "display": {
-      "family": "brando-sans",
+      "family": "Garamond, Baskerville, 'Baskerville Old Face', 'Hoefler Text', 'Times New Roman', serif",
       "font-size": 16,
-      "line-height": 1.5,
-      "scale-ratio": 1.35,
+      "line-height": 1.75,
+      "scale-ratio": 1.225,
       "bp-factor": {
         "phone": 1.167,
-        "tablet": 1.375
+        "tablet": 1.333
       }
     },
     "copy": {
-      "family": "brando-sans",
-      "font-size": 14,
+      "family": "'Helvetica Neue', Helvetica, Arial, sans-serif",
+      "font-size": 16,
       "line-height": 1.75,
       "scale-ratio": 1.225,
       "bp-factor": {
@@ -26,7 +28,7 @@
       }
     },
     "ui": {
-      "family": "brando-sans",
+      "family": "system-ui, -apple-system, BlinkMacSystemFont, 'Avenir Next', 'Avenir', 'Segoe UI', 'Lucida Grande', 'Helvetica Neue', 'Helvetica', 'Fira Sans', 'Roboto', 'Noto', 'Droid Sans', 'Cantarell', 'Oxygen', 'Ubuntu', 'Franklin Gothic Medium', 'Century Gothic', 'Liberation Sans', sans-serif",
       "font-size": 16,
       "line-height": 1.75,
       "scale-ratio": 1.225,
@@ -35,7 +37,7 @@
       }
     },
     "mono": {
-      "family": "brando-sans",
+      "family": "ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace",
       "font-size": 16,
       "line-height": 1.75,
       "scale-ratio": 1.225,
@@ -52,8 +54,12 @@
   },
   "spacing": {
     "base": 8,
-    "scale-ratio": 1.414,
-    "bp-ratio": 1.25
+    "scale-ratio": 1.618,
+    "bp-ratio": 1.414
+  },
+  "border-radius": "2px",
+  "box-shadow": {
+    "blur": "2.75px"
   },
   "breakpoints": {
     "phone": 576,

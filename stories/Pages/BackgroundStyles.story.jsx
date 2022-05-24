@@ -31,6 +31,7 @@ const Page = () => (
         content: "Section Background White",
         subheadline: "At vero eos et accusam et justo duo dolores et ea rebum.",
         align: "center",
+        spaceAfter: "small",
         level: "h2",
       }}
       width="narrow"
@@ -54,6 +55,7 @@ const Page = () => (
         content: "lorem ipsum",
         subheadline: "At vero eos et accusam et justo duo dolores et ea rebum.",
         align: "center",
+        spaceAfter: "small",
       }}
     >
       <ContentBox
@@ -136,6 +138,7 @@ const Page = () => (
         subheadline: "At vero eos et accusam et justo duo dolores et ea rebum.",
         level: "h3",
         align: "center",
+        spaceAfter: "small",
       }}
     >
       <TeaserBox
@@ -189,7 +192,7 @@ const Page = () => (
         content: "Section Background Accent",
         subheadline: "At vero eos et accusam et justo duo dolores et ea rebum.",
         align: "center",
-        spaceAfter: "small"
+        spaceAfter: "small",
       }}
     >
       <ContentBox
@@ -272,6 +275,7 @@ const Page = () => (
         subheadline: "At vero eos et accusam et justo duo dolores et ea rebum.",
         level: "h3",
         align: "center",
+        spaceAfter: "small",
       }}
     >
       <TeaserBox
@@ -318,13 +322,14 @@ const Page = () => (
       />
     </Section>
     <Section
-      background="dark"
+      ks-inverted="true"
       width="wide"
       spaceAfter="small"
       headline={{
         content: "Section Background Dark",
         subheadline: "At vero eos et accusam et justo duo dolores et ea rebum.",
         align: "center",
+        spaceAfter: "small",
       }}
     >
       <ContentBox
@@ -371,7 +376,7 @@ const Page = () => (
       />
     </Section>
     <Section
-      background="dark"
+      ks-inverted="true"
       width="wide"
       spaceBefore="small"
       spaceAfter="small"
@@ -399,7 +404,7 @@ const Page = () => (
       />
     </Section>
     <Section
-      background="dark"
+      ks-inverted="true"
       width="wide"
       spaceBefore="small"
       headline={{
@@ -407,6 +412,7 @@ const Page = () => (
         subheadline: "At vero eos et accusam et justo duo dolores et ea rebum.",
         level: "h3",
         align: "center",
+        spaceAfter: "small",
       }}
     >
       <TeaserBox
