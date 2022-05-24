@@ -1,18 +1,18 @@
 import { createElement, Fragment } from "react";
+import { actions } from "@storybook/addon-actions";
 // @see https://github.com/aFarkas/lazysizes/tree/gh-pages/plugins/attrchange
 import "lazysizes/plugins/attrchange/ls.attrchange";
 import { unpackDecorator } from "@kickstartds/core/lib/storybook/helpers";
 import { Providers } from "../src/Providers";
+import { LightBox } from "@kickstartds/base/lib/lightbox";
+import IconSprite from "./IconSprite";
 
 import "@kickstartds/base/lib/global/base.js";
 import "@kickstartds/base/lib/global/base.css";
 import "../tokens.css";
 
-import { LightBox } from "@kickstartds/base/lib/lightbox";
-import IconSprite from "./IconSprite";
-
-import designTokens from "!!raw-loader!./tokens.css";
-import icons from "!!raw-loader!./icons.html";
+const myActions = actions("radio");
+window.rm.radio.on("*", myActions.radio);
 
 const providerDecorator = (Story, context) => (
   <Providers>
@@ -21,17 +21,20 @@ const providerDecorator = (Story, context) => (
 );
 
 export const parameters = {
+  actions: { argTypesRegex: "^on[A-Z].*" },
+  controls: {
+    matchers: {
+      color: /(background|color)$/i,
+      date: /Date$/,
+    },
+  },
+  html: {
+    prettier: {
+      tabWidth: 4,
+    },
+  },
   designToken: {
-    files: [
-      {
-        filename: "./tokens.css",
-        content: designTokens,
-      },
-      {
-        filename: "./icons.svg",
-        content: icons,
-      },
-    ],
+    disable: true,
   },
 };
 

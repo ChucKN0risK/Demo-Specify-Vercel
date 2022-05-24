@@ -1,17 +1,28 @@
 {
   "ks": {
     "duration": {
-      "immediate": {
-        "value": "50ms"
-      },
       "fast": {
         "value": "100ms"
       },
+      "immediate": {
+        "value": "50ms"
+      },
       "medium": {
-        "value": "150ms"
+        "value": "200ms"
       },
       "slow": {
         "value": "300ms"
+      }
+    },
+    "transition": {
+      "collapse": {
+        "value": "{ks.duration.slow} {ks.timing-function.ease-out}"
+      },
+      "hover": {
+        "value": "{ks.duration.fast} {ks.timing-function.ease-in-out}"
+      },
+      "fade": {
+        "value": "{ks.duration.medium} {ks.timing-function.ease-out}"
       }
     },
     "timing-function": {
@@ -29,17 +40,6 @@
       },
       "linear": {
         "value": "linear"
-      }
-    },
-    "transition": {
-      "collapse": {
-        "value": "{ks.duration.slow} {ks.timing-function.ease-out}"
-      },
-      "hover": {
-        "value": "{ks.duration.fast} {ks.timing-function.ease-in-out}"
-      },
-      "fade": {
-        "value": "{ks.duration.slow} {ks.timing-function.ease-out}"
       }
     }
   }

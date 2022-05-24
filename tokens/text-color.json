@@ -2,44 +2,9 @@
   "ks": {
     "text-color": {
       "default": {
-        "_": {
-          "value": {
-            "r": 78,
-            "g": 83,
-            "b": 86,
-            "a": 1
-          },
-          "attributes": {
-            "category": "color"
-          },
-          "token": {
-            "category": "Colors: Text Default",
-            "presenter": "Color"
-          }
-        },
         "interactive": {
-          "_": {
-            "value": {
-              "r": 0,
-              "g": 0,
-              "b": 238,
-              "a": 1
-            },
-            "attributes": {
-              "category": "color"
-            },
-            "token": {
-              "category": "Colors: Text Default",
-              "presenter": "Color"
-            }
-          },
-          "hover": {
-            "value": {
-              "r": 0,
-              "g": 0,
-              "b": 238,
-              "a": 1
-            },
+          "base": {
+            "value": "{ks.color.link.base}",
             "attributes": {
               "category": "color"
             },
@@ -49,43 +14,46 @@
             }
           },
           "active": {
-            "value": {
-              "r": 0,
-              "g": 0,
-              "b": 238,
-              "a": 1
-            },
-            "attributes": {
-              "category": "color"
-            },
-            "token": {
-              "category": "Colors: Text Default",
-              "presenter": "Color"
+            "base": {
+              "value": "{ks.color.link.base}",
+              "attributes": {
+                "category": "color"
+              },
+              "token": {
+                "category": "Colors: Text Default",
+                "presenter": "Color"
+              }
+            }
+          },
+          "hover": {
+            "base": {
+              "value": "{ks.color.link.base}",
+              "attributes": {
+                "category": "color"
+              },
+              "token": {
+                "category": "Colors: Text Default",
+                "presenter": "Color"
+              }
             }
           },
           "visited": {
-            "value": {
-              "r": 0,
-              "g": 0,
-              "b": 238,
-              "a": 1
-            },
-            "attributes": {
-              "category": "color"
-            },
-            "token": {
-              "category": "Colors: Text Default",
-              "presenter": "Color"
+            "base": {
+              "value": "{ks.color.link.base}",
+              "attributes": {
+                "category": "color"
+              },
+              "token": {
+                "category": "Colors: Text Default",
+                "presenter": "Color"
+              }
             }
           }
-        },
-        "inverted": {
-          "value": {
-            "r": 255,
-            "g": 255,
-            "b": 255,
-            "a": 1
-          },
+        }
+      },
+      "default-inverted": {
+        "base": {
+          "value": "{ks.color.fg-inverted.base}",
           "attributes": {
             "category": "color"
           },
@@ -93,32 +61,70 @@
             "category": "Colors: Text Default",
             "presenter": "Color"
           }
+        },
+        "interactive": {
+          "base": {
+            "value": "{ks.color.link-inverted.base}",
+            "attributes": {
+              "category": "color"
+            },
+            "token": {
+              "category": "Colors: Text Default Inverted",
+              "presenter": "Color"
+            }
+          },
+          "active": {
+            "base": {
+              "value": "{ks.color.link-inverted.base}",
+              "attributes": {
+                "category": "color"
+              },
+              "token": {
+                "category": "Colors: Text Default Inverted",
+                "presenter": "Color"
+              }
+            }
+          },
+          "hover": {
+            "base": {
+              "value": "{ks.color.link-inverted.base}",
+              "attributes": {
+                "category": "color"
+              },
+              "token": {
+                "category": "Colors: Text Default Inverted",
+                "presenter": "Color"
+              }
+            }
+          },
+          "visited": {
+            "base": {
+              "value": "{ks.color.link-inverted.base}",
+              "attributes": {
+                "category": "color"
+              },
+              "token": {
+                "category": "Colors: Text Default Inverted",
+                "presenter": "Color"
+              }
+            }
+          }
         }
       },
       "interface": {
-        "_": {
-          "value": {
-            "r": 78,
-            "g": 83,
-            "b": 86,
-            "a": 0.8
-          },
+        "base": {
+          "value": "{ks.color.fg.alpha.8.base}",
           "attributes": {
             "category": "color"
           },
           "token": {
-            "category": "Colors: Text Interface",
+            "category": "Colors: Text Default",
             "presenter": "Color"
           }
         },
         "interactive": {
-          "_": {
-            "value": {
-              "r": 78,
-              "g": 83,
-              "b": 86,
-              "a": 1
-            },
+          "base": {
+            "value": "{ks.color.fg.base}",
             "attributes": {
               "category": "color"
             },
@@ -126,77 +132,119 @@
               "category": "Colors: Text Interface",
               "presenter": "Color"
             }
+          },
+          "active": {
+            "base": {
+              "value": "{ks.color.fg.base}",
+              "attributes": {
+                "category": "color"
+              },
+              "token": {
+                "category": "Colors: Text Interface",
+                "presenter": "Color"
+              }
+            }
+          },
+          "hover": {
+            "base": {
+              "value": "{ks.color.fg.base}",
+              "attributes": {
+                "category": "color"
+              },
+              "token": {
+                "category": "Colors: Text Interface",
+                "presenter": "Color"
+              }
+            }
+          },
+          "visited": {
+            "base": {
+              "value": "{ks.color.fg.base}",
+              "attributes": {
+                "category": "color"
+              },
+              "token": {
+                "category": "Colors: Text Interface",
+                "presenter": "Color"
+              }
+            }
           }
         }
       },
-      "primary": {
-        "_": {
-          "value": "{ks.color.primary._}",
+      "interface-inverted": {
+        "base": {
+          "value": "{ks.color.fg-inverted.alpha.8.base}",
           "attributes": {
             "category": "color"
           },
           "token": {
-            "category": "Colors: Text Primary",
+            "category": "Colors: Text Default",
             "presenter": "Color"
           }
         },
-        "inverted": {
-          "_": {
-            "value": "{ks.color.primary-inverted._}",
+        "interactive": {
+          "base": {
+            "value": "{ks.color.fg-inverted.base}",
             "attributes": {
               "category": "color"
             },
             "token": {
-              "category": "Colors: Text Primary",
+              "category": "Colors: Text Interface Inverted",
               "presenter": "Color"
             }
           },
-          "interactive": {
-            "_": {
-              "value": "{ks.color.primary-inverted._}",
+          "active": {
+            "base": {
+              "value": "{ks.color.fg-inverted.base}",
               "attributes": {
                 "category": "color"
               },
               "token": {
-                "category": "Colors: Text Primary",
+                "category": "Colors: Text Interface Inverted",
                 "presenter": "Color"
               }
-            },
-            "hover": {
-              "value": "{ks.color.primary-inverted._}",
+            }
+          },
+          "hover": {
+            "base": {
+              "value": "{ks.color.fg-inverted.base}",
               "attributes": {
                 "category": "color"
               },
               "token": {
-                "category": "Colors: Text Primary",
+                "category": "Colors: Text Interface Inverted",
                 "presenter": "Color"
               }
-            },
-            "active": {
-              "value": "{ks.color.primary-inverted._}",
+            }
+          },
+          "visited": {
+            "base": {
+              "value": "{ks.color.fg-inverted.base}",
               "attributes": {
                 "category": "color"
               },
               "token": {
-                "category": "Colors: Text Primary",
+                "category": "Colors: Text Interface Inverted",
                 "presenter": "Color"
               }
             }
           }
+        }
+      },
+      "primary": {
+        "base": {
+          "value": "{ks.color.primary.base}",
+          "attributes": {
+            "category": "color"
+          },
+          "token": {
+            "category": "Colors: Text Default",
+            "presenter": "Color"
+          }
         },
         "interactive": {
-          "_": {
-            "value": "{ks.color.primary._}",
-            "attributes": {
-              "category": "color"
-            },
-            "token": {
-              "category": "Colors: Text Primary",
-              "presenter": "Color"
-            }
-          },
-          "hover": {
-            "value": "{ks.color.primary._}",
+          "base": {
+            "value": "{ks.color.primary.base}",
             "attributes": {
               "category": "color"
             },
@@ -206,23 +254,99 @@
             }
           },
           "active": {
-            "value": "{ks.color.primary._}",
-            "attributes": {
-              "category": "color"
-            },
-            "token": {
-              "category": "Colors: Text Primary",
-              "presenter": "Color"
+            "base": {
+              "value": "{ks.color.primary.base}",
+              "attributes": {
+                "category": "color"
+              },
+              "token": {
+                "category": "Colors: Text Primary",
+                "presenter": "Color"
+              }
+            }
+          },
+          "hover": {
+            "base": {
+              "value": "{ks.color.primary.base}",
+              "attributes": {
+                "category": "color"
+              },
+              "token": {
+                "category": "Colors: Text Primary",
+                "presenter": "Color"
+              }
             }
           },
           "visited": {
-            "value": "{ks.color.primary._}",
+            "base": {
+              "value": "{ks.color.primary.base}",
+              "attributes": {
+                "category": "color"
+              },
+              "token": {
+                "category": "Colors: Text Primary",
+                "presenter": "Color"
+              }
+            }
+          }
+        }
+      },
+      "primary-inverted": {
+        "base": {
+          "value": "{ks.color.primary-inverted.base}",
+          "attributes": {
+            "category": "color"
+          },
+          "token": {
+            "category": "Colors: Text Default",
+            "presenter": "Color"
+          }
+        },
+        "interactive": {
+          "base": {
+            "value": "{ks.color.primary-inverted.base}",
             "attributes": {
               "category": "color"
             },
             "token": {
-              "category": "Colors: Text Primary",
+              "category": "Colors: Text Primary Inverted",
               "presenter": "Color"
+            }
+          },
+          "active": {
+            "base": {
+              "value": "{ks.color.primary-inverted.base}",
+              "attributes": {
+                "category": "color"
+              },
+              "token": {
+                "category": "Colors: Text Primary Inverted",
+                "presenter": "Color"
+              }
+            }
+          },
+          "hover": {
+            "base": {
+              "value": "{ks.color.primary-inverted.base}",
+              "attributes": {
+                "category": "color"
+              },
+              "token": {
+                "category": "Colors: Text Primary Inverted",
+                "presenter": "Color"
+              }
+            }
+          },
+          "visited": {
+            "base": {
+              "value": "{ks.color.primary-inverted.base}",
+              "attributes": {
+                "category": "color"
+              },
+              "token": {
+                "category": "Colors: Text Primary Inverted",
+                "presenter": "Color"
+              }
             }
           }
         }

@@ -1,0 +1,15 @@
+@use "../../../core/src/tokens/token-default-improvements.scss";
+@use "tokens.css";
+
+:root {
+  --g-header-height: 0px;
+  --g-scroll-offset: var(--g-header-height);
+
+  --g-content-width-default: 62rem;
+  --g-content-width-narrow: 46.5rem;
+  --g-content-width-wide: 75rem;
+  --g-content-padding: var(--ks-spacing-inset-m);
+
+  --g-section-space: var(--ks-spacing-inset-xxl);
+  --g-section-space-small: calc(var(--g-section-space) / 2);
+}
