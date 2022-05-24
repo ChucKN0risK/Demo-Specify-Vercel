@@ -3,7 +3,8 @@
   "rules": [
     {
       "name": "Design Tokens",
-      "path": "specify-tokens.json"
+      "path": "specify-tokens.json",
+      "parsers": []
     }
   ]
 }
