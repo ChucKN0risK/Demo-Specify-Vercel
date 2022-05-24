@@ -18,7 +18,7 @@ const switchLights = (e) => {
 
   setTimeout(() => {
     allChildren.forEach((element) => {
-      element.style.transition = "all 1.5s ease-in-out";
+      element.style.transition = "none";
     });
   }, 1000);
 };

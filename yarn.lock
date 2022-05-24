@@ -1999,30 +1999,7 @@
     ora "5.4.1"
     update-notifier "^5.1.0"
 
-"@specifyapp/parsers@git+ssh://git@github.com/julrich/parsers.git":
-  version "0.0.11"
-  resolved "git+ssh://git@github.com/julrich/parsers.git#fb5a87fac26b5831e325dd6d97246df5b8d41dda"
-  dependencies:
-    "@types/lodash" "^4.14.175"
-    "@types/mustache" "^4.1.2"
-    "@types/node" "16.3.3"
-    "@types/prettier" "^2.3.2"
-    "@types/svgo" "2.6.1"
-    "@types/theme-ui" "^0.6.0"
-    "@types/tinycolor2" "^1.4.3"
-    "@types/xml2js" "^0.4.9"
-    deepmerge "^4.2.2"
-    got "^11.8.2"
-    lodash "^4.17.21"
-    mustache "^4.2.0"
-    prettier "2.3.2"
-    svgo "2.8.0"
-    tinycolor2 "^1.4.1"
-    typescript "4.5.5"
-    xml2js "^0.4.23"
-    xmlbuilder2 "^3.0.2"
-
-"@specifyapp/parsers@julrich/parsers":
+"@specifyapp/parsers@github:julrich/parsers", "@specifyapp/parsers@julrich/parsers":
   version "0.0.11"
   resolved "https://codeload.github.com/julrich/parsers/tar.gz/fb5a87fac26b5831e325dd6d97246df5b8d41dda"
   dependencies:
@@ -9078,16 +9055,16 @@ keyv@^4.0.0:
     compress-brotli "^1.3.8"
     json-buffer "3.0.1"
 
-kickstartds@^0.2.19:
-  version "0.2.19"
-  resolved "https://registry.npmjs.org/kickstartds/-/kickstartds-0.2.19.tgz#c47f6de3f5df7cdc0b5039068c86d79acd6f4f89"
-  integrity sha512-l0pLsLgXyRA5aoRnaqtzSCU400lGT9oKPgdJAlk2DbhsuhmYXfg0qNKAq+RQ0j4h0Nn3UPjhJk/77/FemFSGsQ==
+kickstartds@^0.2.20:
+  version "0.2.20"
+  resolved "https://registry.npmjs.org/kickstartds/-/kickstartds-0.2.20.tgz#fcf7b0b0afa4f097d19740c4dc4af896733dd3d5"
+  integrity sha512-kR5H0kfaMfBSDYEi90Cy2IchMLrRWC2LXd1OdjUdojFIGrLMKYylvAuK0K4i+X7TezQ+gU6iUaeIKicDpLe4Ow==
   dependencies:
     "@babel/preset-react" "^7.17.12"
     "@influxdata/influxdb-client" "^1.25.0"
     "@influxdata/influxdb-client-apis" "^1.25.0"
     "@kickstartds/core" "2.0.0-canary.922.4357.0"
-    "@specifyapp/parsers" "ssh://git@github.com:julrich/parsers.git"
+    "@specifyapp/parsers" julrich/parsers
     byline "^5.0.0"
     chalk "^5.0.1"
     chalk-template "^0.4.0"

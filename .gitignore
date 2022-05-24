@@ -3,8 +3,6 @@ node_modules
 dist
 tokens.css
 storybook-static
-.storybook/icons.html
 .storybook/tokens.css
-.storybook/IconSprite.js
 .DS_Store
 *.log
