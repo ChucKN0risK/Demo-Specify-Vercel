@@ -15,7 +15,8 @@
     "specify-convert": "kickstartDS tokens init --from-specify --cleanup --rc-only",
     "init-tokens": "kickstartDS tokens init --cleanup --rc-only",
     "build-tokens": "kickstartDS tokens compile --cleanup --rc-only",
-    "watch-tokens": "chokidar \"tokens/*.json\" -c \"yarn build-tokens\""
+    "watch-tokens": "chokidar \"tokens/*.json\" -c \"yarn build-tokens\"",
+    "build-tokens-and-deploy-storybook": "yarn specify-convert && yarn build-storybook"
   },
   "dependencies": {
     "@bedrock-layout/primitives": "^1.4.3",
