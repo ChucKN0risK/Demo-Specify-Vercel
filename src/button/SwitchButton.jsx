@@ -4,12 +4,23 @@ const switchLights = (e) => {
   const closestSection = e.currentTarget.closest('.l-container.l-container--section');
   const inverted = closestSection.getAttribute('ks-inverted');
 
+  const allChildren = closestSection.querySelectorAll('*');
+  allChildren.forEach((element) => {
+    element.style.transition = "all 1s ease-in-out";
+  });
+
   const isTrueTest = inverted === 'true';
   if (isTrueTest) {
     closestSection.setAttribute('ks-inverted', false);
   } else {
     closestSection.setAttribute('ks-inverted', true);
   }
+
+  setTimeout(() => {
+    allChildren.forEach((element) => {
+      element.style.transition = "all 1.5s ease-in-out";
+    });
+  }, 1000);
 };
 
 const SwitchButton = (props) => {
