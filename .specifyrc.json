@@ -1,6 +1,5 @@
 {
-  "repository": "@specifyapp/test-val",
-  "head": "specify",
+  "repository": "@specifyapp/Kickstart-DS-Demo",
   "rules": [
     {
       "name": "Design Tokens",
