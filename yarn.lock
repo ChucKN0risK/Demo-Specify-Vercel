@@ -9055,10 +9055,10 @@ keyv@^4.0.0:
     compress-brotli "^1.3.8"
     json-buffer "3.0.1"
 
-kickstartds@^0.2.20:
-  version "0.2.20"
-  resolved "https://registry.npmjs.org/kickstartds/-/kickstartds-0.2.20.tgz#fcf7b0b0afa4f097d19740c4dc4af896733dd3d5"
-  integrity sha512-kR5H0kfaMfBSDYEi90Cy2IchMLrRWC2LXd1OdjUdojFIGrLMKYylvAuK0K4i+X7TezQ+gU6iUaeIKicDpLe4Ow==
+kickstartds@^0.2.21:
+  version "0.2.21"
+  resolved "https://registry.npmjs.org/kickstartds/-/kickstartds-0.2.21.tgz#5e064f8c684e55d1fa9656eb9be2c3c356f75ca9"
+  integrity sha512-AtmDYP5J028X9j+KAP0dr+3+w6qUnSy9OfyeYsvQGJQ8uP/qp9VmGEJppzRNzax1iGKCgTxPIOldWSBAOu9H/A==
   dependencies:
     "@babel/preset-react" "^7.17.12"
     "@influxdata/influxdb-client" "^1.25.0"
